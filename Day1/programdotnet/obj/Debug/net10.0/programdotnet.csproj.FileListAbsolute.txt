@@ -1,0 +1,14 @@
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\bin\Debug\net10.0\programdotnet.exe
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\bin\Debug\net10.0\programdotnet.deps.json
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\bin\Debug\net10.0\programdotnet.runtimeconfig.json
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\bin\Debug\net10.0\programdotnet.dll
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\bin\Debug\net10.0\programdotnet.pdb
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\obj\Debug\net10.0\programdotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\obj\Debug\net10.0\programdotnet.AssemblyInfoInputs.cache
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\obj\Debug\net10.0\programdotnet.AssemblyInfo.cs
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\obj\Debug\net10.0\programdotnet.csproj.CoreCompileInputs.cache
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\obj\Debug\net10.0\programdotnet.dll
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\obj\Debug\net10.0\refint\programdotnet.dll
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\obj\Debug\net10.0\programdotnet.pdb
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\obj\Debug\net10.0\programdotnet.genruntimeconfig.cache
+C:\Users\aryan\Desktop\capgemeni traning\programdotnet\obj\Debug\net10.0\ref\programdotnet.dll

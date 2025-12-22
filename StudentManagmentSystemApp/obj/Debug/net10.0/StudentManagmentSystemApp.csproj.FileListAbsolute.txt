@@ -1,0 +1,14 @@
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\bin\Debug\net10.0\StudentManagmentSystemApp.exe
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\bin\Debug\net10.0\StudentManagmentSystemApp.deps.json
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\bin\Debug\net10.0\StudentManagmentSystemApp.runtimeconfig.json
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\bin\Debug\net10.0\StudentManagmentSystemApp.dll
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\bin\Debug\net10.0\StudentManagmentSystemApp.pdb
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\obj\Debug\net10.0\StudentManagmentSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\obj\Debug\net10.0\StudentManagmentSystemApp.AssemblyInfoInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\obj\Debug\net10.0\StudentManagmentSystemApp.AssemblyInfo.cs
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\obj\Debug\net10.0\StudentManagmentSystemApp.csproj.CoreCompileInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\obj\Debug\net10.0\StudentManagmentSystemApp.dll
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\obj\Debug\net10.0\refint\StudentManagmentSystemApp.dll
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\obj\Debug\net10.0\StudentManagmentSystemApp.pdb
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\obj\Debug\net10.0\StudentManagmentSystemApp.genruntimeconfig.cache
+c:\Users\aryan\Desktop\capgemeni traning\StudentManagmentSystemApp\obj\Debug\net10.0\ref\StudentManagmentSystemApp.dll
