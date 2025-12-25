@@ -1,0 +1,14 @@
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\bin\Debug\net10.0\Day6ProblemStatment1.exe
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\bin\Debug\net10.0\Day6ProblemStatment1.deps.json
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\bin\Debug\net10.0\Day6ProblemStatment1.runtimeconfig.json
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\bin\Debug\net10.0\Day6ProblemStatment1.dll
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\bin\Debug\net10.0\Day6ProblemStatment1.pdb
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\obj\Debug\net10.0\Day6ProblemStatment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\obj\Debug\net10.0\Day6ProblemStatment1.AssemblyInfoInputs.cache
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\obj\Debug\net10.0\Day6ProblemStatment1.AssemblyInfo.cs
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\obj\Debug\net10.0\Day6ProblemStatment1.csproj.CoreCompileInputs.cache
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\obj\Debug\net10.0\Day6ProblemStatment1.dll
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\obj\Debug\net10.0\refint\Day6ProblemStatment1.dll
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\obj\Debug\net10.0\Day6ProblemStatment1.pdb
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\obj\Debug\net10.0\Day6ProblemStatment1.genruntimeconfig.cache
+C:\Users\aryan\Desktop\capgemeni traning\Day6\Day6ProblemStatment1\obj\Debug\net10.0\ref\Day6ProblemStatment1.dll
