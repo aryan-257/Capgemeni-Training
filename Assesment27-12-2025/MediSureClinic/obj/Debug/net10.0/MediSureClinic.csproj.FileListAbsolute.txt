@@ -1,0 +1,14 @@
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.exe
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.deps.json
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.runtimeconfig.json
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.AssemblyInfoInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.AssemblyInfo.cs
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.csproj.CoreCompileInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\obj\Debug\net10.0\refint\MediSureClinic.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.genruntimeconfig.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\MediSureClinic\obj\Debug\net10.0\ref\MediSureClinic.dll
