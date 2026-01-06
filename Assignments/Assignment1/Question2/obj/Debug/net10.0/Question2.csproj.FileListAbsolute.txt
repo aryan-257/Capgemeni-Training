@@ -1,0 +1,14 @@
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\bin\Debug\net10.0\Question2.exe
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\bin\Debug\net10.0\Question2.deps.json
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\bin\Debug\net10.0\Question2.runtimeconfig.json
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\bin\Debug\net10.0\Question2.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\bin\Debug\net10.0\Question2.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\obj\Debug\net10.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\obj\Debug\net10.0\Question2.AssemblyInfoInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\obj\Debug\net10.0\Question2.AssemblyInfo.cs
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\obj\Debug\net10.0\Question2.csproj.CoreCompileInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\obj\Debug\net10.0\Question2.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\obj\Debug\net10.0\refint\Question2.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\obj\Debug\net10.0\Question2.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\obj\Debug\net10.0\Question2.genruntimeconfig.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assignments\Assignment1\Question2\obj\Debug\net10.0\ref\Question2.dll

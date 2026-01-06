@@ -1,0 +1,10 @@
+E:\workspace\2019\eurofins\january\itr0\OO_Labs_CSharp\Lab_01\bin\Debug\Lab_01.exe.config
+E:\workspace\2019\eurofins\january\itr0\OO_Labs_CSharp\Lab_01\bin\Debug\Lab_01.exe
+E:\workspace\2019\eurofins\january\itr0\OO_Labs_CSharp\Lab_01\bin\Debug\Lab_01.pdb
+E:\workspace\2019\eurofins\january\itr0\OO_Labs_CSharp\Lab_01\obj\Debug\Lab_01.csprojAssemblyReference.cache
+E:\workspace\2019\eurofins\january\itr0\OO_Labs_CSharp\Lab_01\obj\Debug\Lab_01.csproj.CoreCompileInputs.cache
+E:\workspace\2019\eurofins\january\itr0\OO_Labs_CSharp\Lab_01\obj\Debug\Lab_01.exe
+E:\workspace\2019\eurofins\january\itr0\OO_Labs_CSharp\Lab_01\obj\Debug\Lab_01.pdb
+G:\Eurofins\OO_Labs_CSharp\Lab_01\bin\Debug\Lab_01.exe.config
+G:\Eurofins\OO_Labs_CSharp\Lab_01\obj\Debug\Lab_01.exe
+G:\Eurofins\OO_Labs_CSharp\Lab_01\obj\Debug\Lab_01.pdb

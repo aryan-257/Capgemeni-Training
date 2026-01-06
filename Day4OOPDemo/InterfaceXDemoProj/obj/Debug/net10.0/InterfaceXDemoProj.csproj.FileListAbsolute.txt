@@ -1,0 +1,14 @@
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\bin\Debug\net10.0\InterfaceXDemoProj.exe
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\bin\Debug\net10.0\InterfaceXDemoProj.deps.json
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\bin\Debug\net10.0\InterfaceXDemoProj.runtimeconfig.json
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\bin\Debug\net10.0\InterfaceXDemoProj.dll
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\bin\Debug\net10.0\InterfaceXDemoProj.pdb
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\obj\Debug\net10.0\InterfaceXDemoProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\obj\Debug\net10.0\InterfaceXDemoProj.AssemblyInfoInputs.cache
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\obj\Debug\net10.0\InterfaceXDemoProj.AssemblyInfo.cs
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\obj\Debug\net10.0\InterfaceXDemoProj.csproj.CoreCompileInputs.cache
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\obj\Debug\net10.0\InterfaceXDemoProj.dll
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\obj\Debug\net10.0\refint\InterfaceXDemoProj.dll
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\obj\Debug\net10.0\InterfaceXDemoProj.pdb
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\obj\Debug\net10.0\InterfaceXDemoProj.genruntimeconfig.cache
+C:\Users\aryan\Desktop\capgemeni traning\Day4OOPDemo\InterfaceXDemoProj\obj\Debug\net10.0\ref\InterfaceXDemoProj.dll
