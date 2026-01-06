@@ -1,0 +1,15 @@
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\bin\Debug\net10.0\Ouestion6.exe
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\bin\Debug\net10.0\Ouestion6.deps.json
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\bin\Debug\net10.0\Ouestion6.runtimeconfig.json
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\bin\Debug\net10.0\Ouestion6.dll
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\bin\Debug\net10.0\Ouestion6.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\Ouestion6.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\Ouestion6.AssemblyInfoInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\Ouestion6.AssemblyInfo.cs
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\Ouestion6.csproj.CoreCompileInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\Ouestion6.sourcelink.json
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\Ouestion6.dll
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\refint\Ouestion6.dll
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\Ouestion6.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\Ouestion6.genruntimeconfig.cache
+c:\Users\aryan\Desktop\capgemeni traning\Capgemeni-Training\Assignments\Assignment1\Ouestion6\obj\Debug\net10.0\ref\Ouestion6.dll
