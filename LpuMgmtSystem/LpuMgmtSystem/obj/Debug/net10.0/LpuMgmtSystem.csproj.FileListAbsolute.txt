@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\bin\Debug\net10.0\LpuMgmtSystem.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\bin\Debug\net10.0\LpuMgmtSystem.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\bin\Debug\net10.0\LpuMgmtSystem.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\bin\Debug\net10.0\LpuMgmtSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\bin\Debug\net10.0\LpuMgmtSystem.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\LpuMgmtSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\LpuMgmtSystem.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\LpuMgmtSystem.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\LpuMgmtSystem.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\LpuMgmtSystem.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\LpuMgmtSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\refint\LpuMgmtSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\LpuMgmtSystem.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\LpuMgmtSystem.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LpuMgmtSystem\obj\Debug\net10.0\ref\LpuMgmtSystem.dll

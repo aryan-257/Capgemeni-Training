@@ -1,0 +1,12 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\bin\Debug\net10.0\LPU_Entity.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\bin\Debug\net10.0\LPU_Entity.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\bin\Debug\net10.0\LPU_Entity.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\obj\Debug\net10.0\refint\LPU_Entity.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Entity\obj\Debug\net10.0\ref\LPU_Entity.dll
