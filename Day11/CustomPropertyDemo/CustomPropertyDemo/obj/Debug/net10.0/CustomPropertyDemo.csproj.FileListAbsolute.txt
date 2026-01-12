@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net10.0\CustomPropertyDemo.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\refint\CustomPropertyDemo.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\CustomPropertyDemo.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day11\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net10.0\ref\CustomPropertyDemo.dll
