@@ -1,0 +1,16 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Common.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Common.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Common.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Entity.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Entity.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.csproj.AssemblyReference.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.csproj.Up2Date
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\refint\LPU_Common.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day10\LpuMgmtSystem\LPU_Common\obj\Debug\net10.0\ref\LPU_Common.dll
