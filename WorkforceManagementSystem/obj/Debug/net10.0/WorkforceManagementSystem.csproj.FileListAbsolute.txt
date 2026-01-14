@@ -1,0 +1,14 @@
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\bin\Debug\net10.0\WorkforceManagementSystem.exe
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\bin\Debug\net10.0\WorkforceManagementSystem.deps.json
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\bin\Debug\net10.0\WorkforceManagementSystem.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\bin\Debug\net10.0\WorkforceManagementSystem.dll
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\bin\Debug\net10.0\WorkforceManagementSystem.pdb
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\obj\Debug\net10.0\WorkforceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\obj\Debug\net10.0\WorkforceManagementSystem.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\obj\Debug\net10.0\WorkforceManagementSystem.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\obj\Debug\net10.0\WorkforceManagementSystem.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\obj\Debug\net10.0\WorkforceManagementSystem.dll
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\obj\Debug\net10.0\refint\WorkforceManagementSystem.dll
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\obj\Debug\net10.0\WorkforceManagementSystem.pdb
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\obj\Debug\net10.0\WorkforceManagementSystem.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\capgemeni traning\WorkforceManagementSystem\obj\Debug\net10.0\ref\WorkforceManagementSystem.dll
