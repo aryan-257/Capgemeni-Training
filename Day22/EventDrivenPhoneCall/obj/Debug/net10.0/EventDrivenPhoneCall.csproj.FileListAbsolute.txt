@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\obj\Debug\net10.0\refint\EventDrivenPhoneCall.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Day27\EventDrivenPhoneCall\obj\Debug\net10.0\ref\EventDrivenPhoneCall.dll
