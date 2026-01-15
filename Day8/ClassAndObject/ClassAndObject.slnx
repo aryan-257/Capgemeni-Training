@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../23DecAssig2/23DecAssig2.csproj" Id="2ce73a7f-41dd-4b4d-8b81-dd237ce37e0c" />
+  <Project Path="../23DecAssig3/23DecAssig3.csproj" Id="7f8ebafc-9fc8-4cbb-8090-688444f47421" />
+  <Project Path="../23DecClassAssignment/23DecClassAssignment.csproj" />
+  <Project Path="ClassAndObject.csproj" />
+</Solution>
