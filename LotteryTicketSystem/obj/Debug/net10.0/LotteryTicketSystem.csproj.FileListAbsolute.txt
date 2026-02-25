@@ -1,0 +1,15 @@
+D:\Capgemini\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.exe
+D:\Capgemini\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.deps.json
+D:\Capgemini\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.runtimeconfig.json
+D:\Capgemini\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.dll
+D:\Capgemini\LotteryTicketSystem\bin\Debug\net10.0\LotteryTicketSystem.pdb
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.AssemblyInfoInputs.cache
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.AssemblyInfo.cs
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.sourcelink.json
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.dll
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\refint\LotteryTicketSystem.dll
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.pdb
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\LotteryTicketSystem.genruntimeconfig.cache
+D:\Capgemini\LotteryTicketSystem\obj\Debug\net10.0\ref\LotteryTicketSystem.dll

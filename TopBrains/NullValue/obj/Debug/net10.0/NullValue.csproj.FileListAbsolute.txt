@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\bin\Debug\net10.0\NullValue.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\bin\Debug\net10.0\NullValue.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\bin\Debug\net10.0\NullValue.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\bin\Debug\net10.0\NullValue.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\bin\Debug\net10.0\NullValue.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\obj\Debug\net10.0\NullValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\obj\Debug\net10.0\NullValue.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\obj\Debug\net10.0\NullValue.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\obj\Debug\net10.0\NullValue.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\obj\Debug\net10.0\NullValue.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\obj\Debug\net10.0\refint\NullValue.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\obj\Debug\net10.0\NullValue.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\obj\Debug\net10.0\NullValue.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\NullValue\obj\Debug\net10.0\ref\NullValue.dll

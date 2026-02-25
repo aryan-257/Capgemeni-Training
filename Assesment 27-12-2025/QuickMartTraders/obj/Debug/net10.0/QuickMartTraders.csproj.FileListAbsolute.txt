@@ -1,0 +1,14 @@
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.exe
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.deps.json
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.runtimeconfig.json
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.AssemblyInfoInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.AssemblyInfo.cs
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.csproj.CoreCompileInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\obj\Debug\net10.0\refint\QuickMartTraders.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.genruntimeconfig.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assesment27-12-2025\QuickMartTraders\obj\Debug\net10.0\ref\QuickMartTraders.dll

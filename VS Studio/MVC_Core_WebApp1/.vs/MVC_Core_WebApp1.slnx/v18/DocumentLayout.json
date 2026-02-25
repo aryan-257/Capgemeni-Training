@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\models\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\models\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\models\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\models\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|c:\\users\\aryan\\onedrive\\desktop\\capgemeni traning\\vs studio\\mvc_core_webapp1\\mvc_core_webapp1\\views\\student\\details1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F03E94A0-1689-445B-B9AC-893D8473B5ED}|MVC_Core_WebApp1\\MVC_Core_WebApp1.csproj|solutionrelative:mvc_core_webapp1\\views\\student\\details1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details1.cshtml",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Views\\Student\\Details1.cshtml",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Views\\Student\\Details1.cshtml",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Views\\Student\\Details1.cshtml",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Views\\Student\\Details1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T10:09:40.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\appsettings.Development.json",
+              "RelativeToolTip": "MVC_Core_WebApp1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-24T09:56:28.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Models\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Models\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Models\\StudentRepo.cs",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Models\\StudentRepo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:08:24.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswCQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:22:29.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Models\\Student.cs",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:10:46.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T09:24:03.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Program.cs",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:49:03.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Models\\IRepo.cs",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Models\\IRepo.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Models\\IRepo.cs",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Models\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:04:02.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T09:27:59.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T10:01:11.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\VS Studio\\MVC_Core_WebApp1\\MVC_Core_WebApp1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "MVC_Core_WebApp1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T09:14:39.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

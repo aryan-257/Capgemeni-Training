@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\bin\Debug\net10.0\SmartBank.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\bin\Debug\net10.0\SmartBank.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\bin\Debug\net10.0\SmartBank.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\bin\Debug\net10.0\SmartBank.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\bin\Debug\net10.0\SmartBank.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\obj\Debug\net10.0\SmartBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\obj\Debug\net10.0\SmartBank.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\obj\Debug\net10.0\SmartBank.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\obj\Debug\net10.0\SmartBank.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\obj\Debug\net10.0\SmartBank.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\obj\Debug\net10.0\refint\SmartBank.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\obj\Debug\net10.0\SmartBank.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\obj\Debug\net10.0\SmartBank.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\SmartBank\obj\Debug\net10.0\ref\SmartBank.dll

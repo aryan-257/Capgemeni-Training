@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\bin\Debug\net10.0\Programming.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\bin\Debug\net10.0\Programming.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\bin\Debug\net10.0\Programming.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\bin\Debug\net10.0\Programming.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\bin\Debug\net10.0\Programming.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\obj\Debug\net10.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\obj\Debug\net10.0\Programming.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\obj\Debug\net10.0\Programming.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\obj\Debug\net10.0\Programming.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\obj\Debug\net10.0\Programming.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\obj\Debug\net10.0\refint\Programming.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\obj\Debug\net10.0\Programming.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\obj\Debug\net10.0\Programming.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Programming\obj\Debug\net10.0\ref\Programming.dll

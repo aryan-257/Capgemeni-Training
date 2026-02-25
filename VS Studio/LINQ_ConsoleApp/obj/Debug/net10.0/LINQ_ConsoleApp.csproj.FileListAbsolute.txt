@@ -1,0 +1,4 @@
+C:\Users\aryan\Desktop\capgemeni traning\VS Studio\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\Desktop\capgemeni traning\VS Studio\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aryan\Desktop\capgemeni traning\VS Studio\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.AssemblyInfo.cs
+C:\Users\aryan\Desktop\capgemeni traning\VS Studio\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+D:\Capgemini\WinDiscArchDemo\bin\Debug\WinDiscArchDemo.exe.config
+D:\Capgemini\WinDiscArchDemo\bin\Debug\WinDiscArchDemo.exe
+D:\Capgemini\WinDiscArchDemo\bin\Debug\WinDiscArchDemo.pdb
+D:\Capgemini\WinDiscArchDemo\obj\Debug\WinDiscArchDemo.csproj.AssemblyReference.cache
+D:\Capgemini\WinDiscArchDemo\obj\Debug\WinDiscArchDemo.Form1.resources
+D:\Capgemini\WinDiscArchDemo\obj\Debug\WinDiscArchDemo.Properties.Resources.resources
+D:\Capgemini\WinDiscArchDemo\obj\Debug\WinDiscArchDemo.csproj.GenerateResource.cache
+D:\Capgemini\WinDiscArchDemo\obj\Debug\WinDiscArchDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\WinDiscArchDemo\obj\Debug\WinDiscArchDemo.exe
+D:\Capgemini\WinDiscArchDemo\obj\Debug\WinDiscArchDemo.pdb

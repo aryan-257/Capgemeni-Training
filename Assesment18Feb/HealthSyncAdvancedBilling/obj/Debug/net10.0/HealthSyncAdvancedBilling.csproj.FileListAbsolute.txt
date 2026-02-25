@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\obj\Debug\net10.0\refint\HealthSyncAdvancedBilling.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\HealthSyncAdvancedBilling\obj\Debug\net10.0\ref\HealthSyncAdvancedBilling.dll

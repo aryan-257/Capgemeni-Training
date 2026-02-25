@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\bin\Debug\net10.0\Conversion.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\bin\Debug\net10.0\Conversion.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\bin\Debug\net10.0\Conversion.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\bin\Debug\net10.0\Conversion.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\bin\Debug\net10.0\Conversion.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\obj\Debug\net10.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\obj\Debug\net10.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\obj\Debug\net10.0\Conversion.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\obj\Debug\net10.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\obj\Debug\net10.0\Conversion.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\obj\Debug\net10.0\refint\Conversion.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\obj\Debug\net10.0\Conversion.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\obj\Debug\net10.0\Conversion.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Conversion\obj\Debug\net10.0\ref\Conversion.dll

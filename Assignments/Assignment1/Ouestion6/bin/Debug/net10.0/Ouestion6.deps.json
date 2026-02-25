@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ouestion6/1.0.0": {
+        "runtime": {
+          "Ouestion6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ouestion6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ouestion6/1.0.0": {
+        "runtime": {
+          "Ouestion6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ouestion6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> f3cfdb9a1fcfbbbb31602ebe70d5d75133a143e6
+}

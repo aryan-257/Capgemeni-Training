@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\bin\Debug\net10.0\FlexibleInventorySystem.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\bin\Debug\net10.0\FlexibleInventorySystem.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\bin\Debug\net10.0\FlexibleInventorySystem.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\bin\Debug\net10.0\FlexibleInventorySystem.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\bin\Debug\net10.0\FlexibleInventorySystem.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\obj\Debug\net10.0\FlexibleInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\obj\Debug\net10.0\FlexibleInventorySystem.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\obj\Debug\net10.0\FlexibleInventorySystem.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\obj\Debug\net10.0\FlexibleInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\obj\Debug\net10.0\FlexibleInventorySystem.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\obj\Debug\net10.0\refint\FlexibleInventorySystem.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\obj\Debug\net10.0\FlexibleInventorySystem.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\obj\Debug\net10.0\FlexibleInventorySystem.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\FlexibleInventorySystem\obj\Debug\net10.0\ref\FlexibleInventorySystem.dll

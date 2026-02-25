@@ -1,0 +1,14 @@
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\bin\Debug\net10.0\ConditionalApp.exe
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\bin\Debug\net10.0\ConditionalApp.deps.json
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\bin\Debug\net10.0\ConditionalApp.runtimeconfig.json
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\bin\Debug\net10.0\ConditionalApp.dll
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\bin\Debug\net10.0\ConditionalApp.pdb
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\obj\Debug\net10.0\ConditionalApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\obj\Debug\net10.0\ConditionalApp.AssemblyInfoInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\obj\Debug\net10.0\ConditionalApp.AssemblyInfo.cs
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\obj\Debug\net10.0\ConditionalApp.csproj.CoreCompileInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\obj\Debug\net10.0\ConditionalApp.dll
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\obj\Debug\net10.0\refint\ConditionalApp.dll
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\obj\Debug\net10.0\ConditionalApp.pdb
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\obj\Debug\net10.0\ConditionalApp.genruntimeconfig.cache
+c:\Users\aryan\Desktop\capgemeni traning\day2\ConditionalApp\obj\Debug\net10.0\ref\ConditionalApp.dll

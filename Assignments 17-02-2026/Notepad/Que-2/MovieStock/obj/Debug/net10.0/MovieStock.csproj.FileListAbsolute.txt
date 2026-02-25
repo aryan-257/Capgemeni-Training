@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\bin\Debug\net10.0\MovieStock.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\bin\Debug\net10.0\MovieStock.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\bin\Debug\net10.0\MovieStock.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\bin\Debug\net10.0\MovieStock.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\bin\Debug\net10.0\MovieStock.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\obj\Debug\net10.0\MovieStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\obj\Debug\net10.0\MovieStock.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\obj\Debug\net10.0\MovieStock.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\obj\Debug\net10.0\MovieStock.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\obj\Debug\net10.0\MovieStock.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\obj\Debug\net10.0\refint\MovieStock.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\obj\Debug\net10.0\MovieStock.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\obj\Debug\net10.0\MovieStock.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assignments 17-02-2026\Notepad\Que-2\MovieStock\obj\Debug\net10.0\ref\MovieStock.dll

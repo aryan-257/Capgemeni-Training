@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\bin\Debug\net10.0\Feb14Assesment.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\bin\Debug\net10.0\Feb14Assesment.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\bin\Debug\net10.0\Feb14Assesment.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\bin\Debug\net10.0\Feb14Assesment.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\bin\Debug\net10.0\Feb14Assesment.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\obj\Debug\net10.0\Feb14Assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\obj\Debug\net10.0\Feb14Assesment.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\obj\Debug\net10.0\Feb14Assesment.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\obj\Debug\net10.0\Feb14Assesment.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\obj\Debug\net10.0\Feb14Assesment.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\obj\Debug\net10.0\refint\Feb14Assesment.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\obj\Debug\net10.0\Feb14Assesment.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\obj\Debug\net10.0\Feb14Assesment.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Feb14Assesment\obj\Debug\net10.0\ref\Feb14Assesment.dll

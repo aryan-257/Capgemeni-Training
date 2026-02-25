@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day11\\CustomPropertyDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D16D2A98-07CB-7260-F248-BF499C647415}|CustomPropertyDemo\\CustomPropertyDemo.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day11\\custompropertydemo\\custompropertydemo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16D2A98-07CB-7260-F248-BF499C647415}|CustomPropertyDemo\\CustomPropertyDemo.csproj|solutionrelative:custompropertydemo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16D2A98-07CB-7260-F248-BF499C647415}|CustomPropertyDemo\\CustomPropertyDemo.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day11\\custompropertydemo\\custompropertydemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16D2A98-07CB-7260-F248-BF499C647415}|CustomPropertyDemo\\CustomPropertyDemo.csproj|solutionrelative:custompropertydemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16D2A98-07CB-7260-F248-BF499C647415}|CustomPropertyDemo\\CustomPropertyDemo.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day11\\custompropertydemo\\custompropertydemo\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16D2A98-07CB-7260-F248-BF499C647415}|CustomPropertyDemo\\CustomPropertyDemo.csproj|solutionrelative:custompropertydemo\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16D2A98-07CB-7260-F248-BF499C647415}|CustomPropertyDemo\\CustomPropertyDemo.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day11\\custompropertydemo\\custompropertydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16D2A98-07CB-7260-F248-BF499C647415}|CustomPropertyDemo\\CustomPropertyDemo.csproj|solutionrelative:custompropertydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day11\\CustomPropertyDemo\\CustomPropertyDemo\\Address.cs",
+              "RelativeDocumentMoniker": "CustomPropertyDemo\\Address.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day11\\CustomPropertyDemo\\CustomPropertyDemo\\Address.cs",
+              "RelativeToolTip": "CustomPropertyDemo\\Address.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:31:14.901Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day11\\CustomPropertyDemo\\CustomPropertyDemo\\Order.cs",
+              "RelativeDocumentMoniker": "CustomPropertyDemo\\Order.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day11\\CustomPropertyDemo\\CustomPropertyDemo\\Order.cs",
+              "RelativeToolTip": "CustomPropertyDemo\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:44:31.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day11\\CustomPropertyDemo\\CustomPropertyDemo\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomPropertyDemo\\Customer.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day11\\CustomPropertyDemo\\CustomPropertyDemo\\Customer.cs",
+              "RelativeToolTip": "CustomPropertyDemo\\Customer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:33:18.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day11\\CustomPropertyDemo\\CustomPropertyDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CustomPropertyDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day11\\CustomPropertyDemo\\CustomPropertyDemo\\Program.cs",
+              "RelativeToolTip": "CustomPropertyDemo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:30:17.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

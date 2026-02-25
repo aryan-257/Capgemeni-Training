@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\DemoOnDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\DemoOnDelegates.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\DemoOnDelegates.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\DemoOnDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\DemoOnDelegates.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\bin\Debug\net10.0\DemoOnDelegates.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\bin\Debug\net10.0\DemoOnDelegates.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\bin\Debug\net10.0\DemoOnDelegates.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\bin\Debug\net10.0\DemoOnDelegates.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\bin\Debug\net10.0\DemoOnDelegates.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\DemoOnDelegates.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\refint\DemoOnDelegates.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\DemoOnDelegates.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\DemoOnDelegates.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day16\DemoOnDelegates\DemoOnDelegates\obj\Debug\net10.0\ref\DemoOnDelegates.dll

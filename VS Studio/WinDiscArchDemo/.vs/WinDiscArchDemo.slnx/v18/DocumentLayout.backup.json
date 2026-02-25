@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\WinDiscArchDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|d:\\capgemini\\windiscarchdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|D:\\Capgemini\\WinDiscArchDemo\\productutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|solutionrelative:productutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|D:\\Capgemini\\WinDiscArchDemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|D:\\Capgemini\\WinDiscArchDemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|D:\\Capgemini\\WinDiscArchDemo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|solutionrelative:irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|D:\\Capgemini\\WinDiscArchDemo\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|solutionrelative:iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|D:\\Capgemini\\WinDiscArchDemo\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68942131-AC46-4A39-9396-B7A391F5D490}|WinDiscArchDemo.csproj|solutionrelative:mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Capgemini\\WinDiscArchDemo\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Capgemini\\WinDiscArchDemo\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:43:24.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyCustomException.cs",
+              "DocumentMoniker": "D:\\Capgemini\\WinDiscArchDemo\\MyCustomException.cs",
+              "RelativeDocumentMoniker": "MyCustomException.cs",
+              "ToolTip": "D:\\Capgemini\\WinDiscArchDemo\\MyCustomException.cs",
+              "RelativeToolTip": "MyCustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:35:30.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "D:\\Capgemini\\WinDiscArchDemo\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "IProductRepo.cs",
+              "ToolTip": "D:\\Capgemini\\WinDiscArchDemo\\IProductRepo.cs",
+              "RelativeToolTip": "IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:34:18.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\Capgemini\\WinDiscArchDemo\\IRepo.cs",
+              "RelativeDocumentMoniker": "IRepo.cs",
+              "ToolTip": "D:\\Capgemini\\WinDiscArchDemo\\IRepo.cs",
+              "RelativeToolTip": "IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:30:26.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Capgemini\\WinDiscArchDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Capgemini\\WinDiscArchDemo\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:03:14.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductUtility.cs",
+              "DocumentMoniker": "D:\\Capgemini\\WinDiscArchDemo\\ProductUtility.cs",
+              "RelativeDocumentMoniker": "ProductUtility.cs",
+              "ToolTip": "D:\\Capgemini\\WinDiscArchDemo\\ProductUtility.cs",
+              "RelativeToolTip": "ProductUtility.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:20:54.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Capgemini\\WinDiscArchDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Capgemini\\WinDiscArchDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T04:33:46.073Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

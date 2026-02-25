@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\bin\Debug\net10.0\Sortedarrays.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\bin\Debug\net10.0\Sortedarrays.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\bin\Debug\net10.0\Sortedarrays.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\bin\Debug\net10.0\Sortedarrays.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\bin\Debug\net10.0\Sortedarrays.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\obj\Debug\net10.0\Sortedarrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\obj\Debug\net10.0\Sortedarrays.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\obj\Debug\net10.0\Sortedarrays.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\obj\Debug\net10.0\Sortedarrays.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\obj\Debug\net10.0\Sortedarrays.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\obj\Debug\net10.0\refint\Sortedarrays.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\obj\Debug\net10.0\Sortedarrays.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\obj\Debug\net10.0\Sortedarrays.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Sortedarrays\obj\Debug\net10.0\ref\Sortedarrays.dll

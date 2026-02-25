@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\bin\Debug\net10.0\Parsing.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\bin\Debug\net10.0\Parsing.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\bin\Debug\net10.0\Parsing.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\bin\Debug\net10.0\Parsing.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\bin\Debug\net10.0\Parsing.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\obj\Debug\net10.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\obj\Debug\net10.0\Parsing.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\obj\Debug\net10.0\Parsing.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\obj\Debug\net10.0\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\obj\Debug\net10.0\Parsing.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\obj\Debug\net10.0\refint\Parsing.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\obj\Debug\net10.0\Parsing.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\obj\Debug\net10.0\Parsing.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Parsing\obj\Debug\net10.0\ref\Parsing.dll

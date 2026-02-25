@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\LINQ_ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5509C1B-288D-109C-E97D-69E4FAF8262E}|LINQ_ConsoleApp.csproj|d:\\capgemini\\linq_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5509C1B-288D-109C-E97D-69E4FAF8262E}|LINQ_ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5509C1B-288D-109C-E97D-69E4FAF8262E}|LINQ_ConsoleApp.csproj|d:\\capgemini\\linq_consoleapp\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5509C1B-288D-109C-E97D-69E4FAF8262E}|LINQ_ConsoleApp.csproj|solutionrelative:studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5509C1B-288D-109C-E97D-69E4FAF8262E}|LINQ_ConsoleApp.csproj|d:\\capgemini\\linq_consoleapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5509C1B-288D-109C-E97D-69E4FAF8262E}|LINQ_ConsoleApp.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5509C1B-288D-109C-E97D-69E4FAF8262E}|LINQ_ConsoleApp.csproj|d:\\capgemini\\linq_consoleapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5509C1B-288D-109C-E97D-69E4FAF8262E}|LINQ_ConsoleApp.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_ConsoleApp\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "StudentRepo.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_ConsoleApp\\StudentRepo.cs",
+              "RelativeToolTip": "StudentRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:50:26.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_ConsoleApp\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_ConsoleApp\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:50:00.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_ConsoleApp\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_ConsoleApp\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:45:14.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAowHMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:53:17.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

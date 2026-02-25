@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\bin\Debug\net10.0\BakeMeAWish.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\bin\Debug\net10.0\BakeMeAWish.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\bin\Debug\net10.0\BakeMeAWish.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\bin\Debug\net10.0\BakeMeAWish.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\bin\Debug\net10.0\BakeMeAWish.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\obj\Debug\net10.0\BakeMeAWish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\obj\Debug\net10.0\BakeMeAWish.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\obj\Debug\net10.0\BakeMeAWish.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\obj\Debug\net10.0\BakeMeAWish.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\obj\Debug\net10.0\BakeMeAWish.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\obj\Debug\net10.0\refint\BakeMeAWish.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\obj\Debug\net10.0\BakeMeAWish.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\obj\Debug\net10.0\BakeMeAWish.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BakeMeAWish\obj\Debug\net10.0\ref\BakeMeAWish.dll

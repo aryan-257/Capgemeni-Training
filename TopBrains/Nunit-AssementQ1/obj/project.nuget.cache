@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgZDtLh1nNU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aryan\\OneDrive\\Desktop\\capgemeni traning\\TopBrains\\Nunit-AssementQ1\\Nunit-AssementQ1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0\\microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

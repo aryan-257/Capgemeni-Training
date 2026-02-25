@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\AssemblyDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D71130-9E0B-499B-836A-9D6EEE98BEBD}|ServiceLibrary\\ServiceLibrary.csproj|c:\\users\\aryan\\desktop\\capgemeni traning\\vs studio\\assemblydemo\\servicelibrary\\somelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D71130-9E0B-499B-836A-9D6EEE98BEBD}|ServiceLibrary\\ServiceLibrary.csproj|solutionrelative:servicelibrary\\somelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D71130-9E0B-499B-836A-9D6EEE98BEBD}|ServiceLibrary\\ServiceLibrary.csproj|c:\\users\\aryan\\desktop\\capgemeni traning\\vs studio\\assemblydemo\\servicelibrary\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D71130-9E0B-499B-836A-9D6EEE98BEBD}|ServiceLibrary\\ServiceLibrary.csproj|solutionrelative:servicelibrary\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83C112-95D9-49CE-9E7E-E29FD09C3106}|UILogic\\UILogic.csproj|c:\\users\\aryan\\desktop\\capgemeni traning\\vs studio\\assemblydemo\\uilogic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D83C112-95D9-49CE-9E7E-E29FD09C3106}|UILogic\\UILogic.csproj|solutionrelative:uilogic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\AssemblyDemo\\ServiceLibrary\\Player.cs",
+              "RelativeDocumentMoniker": "ServiceLibrary\\Player.cs",
+              "ToolTip": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\AssemblyDemo\\ServiceLibrary\\Player.cs",
+              "RelativeToolTip": "ServiceLibrary\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T04:51:07.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SomeLogic.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\AssemblyDemo\\ServiceLibrary\\SomeLogic.cs",
+              "RelativeDocumentMoniker": "ServiceLibrary\\SomeLogic.cs",
+              "ToolTip": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\AssemblyDemo\\ServiceLibrary\\SomeLogic.cs",
+              "RelativeToolTip": "ServiceLibrary\\SomeLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T04:37:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\AssemblyDemo\\UILogic\\Program.cs",
+              "RelativeDocumentMoniker": "UILogic\\Program.cs",
+              "ToolTip": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\AssemblyDemo\\UILogic\\Program.cs",
+              "RelativeToolTip": "UILogic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T04:36:02.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.exe
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.deps.json
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.runtimeconfig.json
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.AssemblyInfoInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.AssemblyInfo.cs
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.csproj.CoreCompileInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\obj\Debug\net10.0\refint\DigitalPettyCashLedger.dll
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.pdb
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.genruntimeconfig.cache
+c:\Users\aryan\Desktop\capgemeni traning\Assesment07-01-2026\DigitalPettyCashLedger\obj\Debug\net10.0\ref\DigitalPettyCashLedger.dll

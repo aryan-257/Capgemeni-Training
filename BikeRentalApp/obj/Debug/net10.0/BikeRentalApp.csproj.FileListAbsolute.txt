@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\obj\Debug\net10.0\refint\BikeRentalApp.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\BikeRentalApp\obj\Debug\net10.0\ref\BikeRentalApp.dll

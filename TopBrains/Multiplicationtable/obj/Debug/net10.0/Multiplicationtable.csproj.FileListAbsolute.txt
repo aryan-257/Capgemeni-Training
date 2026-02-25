@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\bin\Debug\net10.0\Multiplicationtable.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\bin\Debug\net10.0\Multiplicationtable.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\bin\Debug\net10.0\Multiplicationtable.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\bin\Debug\net10.0\Multiplicationtable.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\bin\Debug\net10.0\Multiplicationtable.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\obj\Debug\net10.0\Multiplicationtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\obj\Debug\net10.0\Multiplicationtable.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\obj\Debug\net10.0\Multiplicationtable.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\obj\Debug\net10.0\Multiplicationtable.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\obj\Debug\net10.0\Multiplicationtable.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\obj\Debug\net10.0\refint\Multiplicationtable.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\obj\Debug\net10.0\Multiplicationtable.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\obj\Debug\net10.0\Multiplicationtable.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Multiplicationtable\obj\Debug\net10.0\ref\Multiplicationtable.dll

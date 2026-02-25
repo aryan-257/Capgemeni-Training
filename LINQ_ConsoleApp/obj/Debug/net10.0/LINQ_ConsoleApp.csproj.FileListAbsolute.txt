@@ -1,0 +1,15 @@
+D:\Capgemini\LINQ_ConsoleApp\bin\Debug\net10.0\LINQ_ConsoleApp.exe
+D:\Capgemini\LINQ_ConsoleApp\bin\Debug\net10.0\LINQ_ConsoleApp.deps.json
+D:\Capgemini\LINQ_ConsoleApp\bin\Debug\net10.0\LINQ_ConsoleApp.runtimeconfig.json
+D:\Capgemini\LINQ_ConsoleApp\bin\Debug\net10.0\LINQ_ConsoleApp.dll
+D:\Capgemini\LINQ_ConsoleApp\bin\Debug\net10.0\LINQ_ConsoleApp.pdb
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.AssemblyInfoInputs.cache
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.AssemblyInfo.cs
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.sourcelink.json
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.dll
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\refint\LINQ_ConsoleApp.dll
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.pdb
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\LINQ_ConsoleApp.genruntimeconfig.cache
+D:\Capgemini\LINQ_ConsoleApp\obj\Debug\net10.0\ref\LINQ_ConsoleApp.dll

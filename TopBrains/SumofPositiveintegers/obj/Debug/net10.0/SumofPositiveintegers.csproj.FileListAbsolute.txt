@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\bin\Debug\net10.0\SumofPositiveintegers.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\bin\Debug\net10.0\SumofPositiveintegers.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\bin\Debug\net10.0\SumofPositiveintegers.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\bin\Debug\net10.0\SumofPositiveintegers.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\bin\Debug\net10.0\SumofPositiveintegers.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\obj\Debug\net10.0\SumofPositiveintegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\obj\Debug\net10.0\SumofPositiveintegers.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\obj\Debug\net10.0\SumofPositiveintegers.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\obj\Debug\net10.0\SumofPositiveintegers.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\obj\Debug\net10.0\SumofPositiveintegers.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\obj\Debug\net10.0\refint\SumofPositiveintegers.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\obj\Debug\net10.0\SumofPositiveintegers.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\obj\Debug\net10.0\SumofPositiveintegers.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\SumofPositiveintegers\obj\Debug\net10.0\ref\SumofPositiveintegers.dll

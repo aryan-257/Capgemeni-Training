@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\refint\FactoryRobotHazardAnalyzer.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\ref\FactoryRobotHazardAnalyzer.dll

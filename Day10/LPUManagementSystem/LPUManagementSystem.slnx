@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="D:/Capgemini/LPUManagementSystem/LPU_DAL/LPU_DAL.csproj" />
+  <Project Path="D:/Capgemini/LPUManagementSystem/LPU_Entity/LPU_Entity.csproj" />
+  <Project Path="LPU_BL/LPU_BL.csproj" Id="d62e09ba-e617-48ce-a6f1-b08f4235a285" />
+  <Project Path="LPU_Common/LPU_Common.csproj" Id="175ccd9f-2619-4f30-9ea0-880f4c5e66a9" />
+  <Project Path="LPU_Exceptions/LPU_Exceptions.csproj" Id="89446408-0ef6-47d2-b6cf-d7f22adc80da" />
+  <Project Path="LPU_UI/LPU_UI.csproj" Id="0fba0805-b720-41af-8b7a-197680e6ad02" />
+</Solution>

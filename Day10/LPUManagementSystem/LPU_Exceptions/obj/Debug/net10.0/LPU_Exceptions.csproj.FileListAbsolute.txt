@@ -1,0 +1,12 @@
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\bin\Debug\net10.0\LPU_Exceptions.deps.json
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\bin\Debug\net10.0\LPU_Exceptions.dll
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\bin\Debug\net10.0\LPU_Exceptions.pdb
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.AssemblyInfoInputs.cache
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.AssemblyInfo.cs
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.csproj.CoreCompileInputs.cache
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.sourcelink.json
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.dll
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\obj\Debug\net10.0\refint\LPU_Exceptions.dll
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.pdb
+D:\Capgemini\LPUManagementSystem\LPU_Exceptions\obj\Debug\net10.0\ref\LPU_Exceptions.dll

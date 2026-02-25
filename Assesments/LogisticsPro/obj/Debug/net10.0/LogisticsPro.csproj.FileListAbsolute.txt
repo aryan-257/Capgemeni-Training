@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\bin\Debug\net10.0\LogisticsPro.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\bin\Debug\net10.0\LogisticsPro.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\bin\Debug\net10.0\LogisticsPro.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\bin\Debug\net10.0\LogisticsPro.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\bin\Debug\net10.0\LogisticsPro.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\obj\Debug\net10.0\LogisticsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\obj\Debug\net10.0\LogisticsPro.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\obj\Debug\net10.0\LogisticsPro.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\obj\Debug\net10.0\LogisticsPro.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\obj\Debug\net10.0\LogisticsPro.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\obj\Debug\net10.0\refint\LogisticsPro.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\obj\Debug\net10.0\LogisticsPro.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\obj\Debug\net10.0\LogisticsPro.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesments\LogisticsPro\obj\Debug\net10.0\ref\LogisticsPro.dll

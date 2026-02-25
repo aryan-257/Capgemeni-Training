@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\bin\Debug\net10.0\GreatestCommonDivisor.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\bin\Debug\net10.0\GreatestCommonDivisor.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\bin\Debug\net10.0\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\bin\Debug\net10.0\GreatestCommonDivisor.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\bin\Debug\net10.0\GreatestCommonDivisor.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\obj\Debug\net10.0\GreatestCommonDivisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\obj\Debug\net10.0\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\obj\Debug\net10.0\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\obj\Debug\net10.0\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\obj\Debug\net10.0\GreatestCommonDivisor.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\obj\Debug\net10.0\refint\GreatestCommonDivisor.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\obj\Debug\net10.0\GreatestCommonDivisor.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\obj\Debug\net10.0\GreatestCommonDivisor.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\GreatestCommonDivisor\obj\Debug\net10.0\ref\GreatestCommonDivisor.dll

@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\bin\Debug\net10.0\Banktransactionprogram.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\bin\Debug\net10.0\Banktransactionprogram.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\bin\Debug\net10.0\Banktransactionprogram.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\bin\Debug\net10.0\Banktransactionprogram.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\bin\Debug\net10.0\Banktransactionprogram.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\obj\Debug\net10.0\Banktransactionprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\obj\Debug\net10.0\Banktransactionprogram.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\obj\Debug\net10.0\Banktransactionprogram.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\obj\Debug\net10.0\Banktransactionprogram.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\obj\Debug\net10.0\Banktransactionprogram.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\obj\Debug\net10.0\refint\Banktransactionprogram.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\obj\Debug\net10.0\Banktransactionprogram.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\obj\Debug\net10.0\Banktransactionprogram.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\Banktransactionprogram\obj\Debug\net10.0\ref\Banktransactionprogram.dll

@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\bin\Debug\net10.0\StringFormat.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\bin\Debug\net10.0\StringFormat.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\bin\Debug\net10.0\StringFormat.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\bin\Debug\net10.0\StringFormat.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\bin\Debug\net10.0\StringFormat.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\obj\Debug\net10.0\StringFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\obj\Debug\net10.0\StringFormat.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\obj\Debug\net10.0\StringFormat.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\obj\Debug\net10.0\StringFormat.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\obj\Debug\net10.0\StringFormat.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\obj\Debug\net10.0\refint\StringFormat.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\obj\Debug\net10.0\StringFormat.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\obj\Debug\net10.0\StringFormat.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\StringFormat\obj\Debug\net10.0\ref\StringFormat.dll

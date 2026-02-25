@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\bin\Debug\net10.0\SmartBankingSystem.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\bin\Debug\net10.0\SmartBankingSystem.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\bin\Debug\net10.0\SmartBankingSystem.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\bin\Debug\net10.0\SmartBankingSystem.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\bin\Debug\net10.0\SmartBankingSystem.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\obj\Debug\net10.0\SmartBankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\obj\Debug\net10.0\SmartBankingSystem.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\obj\Debug\net10.0\SmartBankingSystem.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\obj\Debug\net10.0\SmartBankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\obj\Debug\net10.0\SmartBankingSystem.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\obj\Debug\net10.0\refint\SmartBankingSystem.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\obj\Debug\net10.0\SmartBankingSystem.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\obj\Debug\net10.0\SmartBankingSystem.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\SmartBankingSystem\obj\Debug\net10.0\ref\SmartBankingSystem.dll

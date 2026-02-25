@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aryan\\Downloads\\software-engineering-training-main\\software-engineering-training-main\\Day16\\DemoOnDelegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{669CA6F6-4DD5-449F-E0D2-B98C116031A6}|DemoOnDelegates\\DemoOnDelegates.csproj|c:\\users\\aryan\\downloads\\software-engineering-training-main\\software-engineering-training-main\\day16\\demoondelegates\\demoondelegates\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669CA6F6-4DD5-449F-E0D2-B98C116031A6}|DemoOnDelegates\\DemoOnDelegates.csproj|solutionrelative:demoondelegates\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669CA6F6-4DD5-449F-E0D2-B98C116031A6}|DemoOnDelegates\\DemoOnDelegates.csproj|c:\\users\\aryan\\downloads\\software-engineering-training-main\\software-engineering-training-main\\day16\\demoondelegates\\demoondelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669CA6F6-4DD5-449F-E0D2-B98C116031A6}|DemoOnDelegates\\DemoOnDelegates.csproj|solutionrelative:demoondelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelegateDemo.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\Downloads\\software-engineering-training-main\\software-engineering-training-main\\Day16\\DemoOnDelegates\\DemoOnDelegates\\DelegateDemo.cs",
+              "RelativeDocumentMoniker": "DemoOnDelegates\\DelegateDemo.cs",
+              "ToolTip": "C:\\Users\\aryan\\Downloads\\software-engineering-training-main\\software-engineering-training-main\\Day16\\DemoOnDelegates\\DemoOnDelegates\\DelegateDemo.cs",
+              "RelativeToolTip": "DemoOnDelegates\\DelegateDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:55:45.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\Downloads\\software-engineering-training-main\\software-engineering-training-main\\Day16\\DemoOnDelegates\\DemoOnDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "DemoOnDelegates\\Program.cs",
+              "ToolTip": "C:\\Users\\aryan\\Downloads\\software-engineering-training-main\\software-engineering-training-main\\Day16\\DemoOnDelegates\\DemoOnDelegates\\Program.cs",
+              "RelativeToolTip": "DemoOnDelegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:55:15.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

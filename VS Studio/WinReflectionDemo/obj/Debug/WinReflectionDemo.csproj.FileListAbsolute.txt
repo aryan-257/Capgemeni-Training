@@ -1,0 +1,10 @@
+D:\Capgemini\WinReflectionDemo\bin\Debug\WinReflectionDemo.exe.config
+D:\Capgemini\WinReflectionDemo\bin\Debug\WinReflectionDemo.exe
+D:\Capgemini\WinReflectionDemo\bin\Debug\WinReflectionDemo.pdb
+D:\Capgemini\WinReflectionDemo\obj\Debug\WinReflectionDemo.csproj.AssemblyReference.cache
+D:\Capgemini\WinReflectionDemo\obj\Debug\WinReflectionDemo.Form1.resources
+D:\Capgemini\WinReflectionDemo\obj\Debug\WinReflectionDemo.Properties.Resources.resources
+D:\Capgemini\WinReflectionDemo\obj\Debug\WinReflectionDemo.csproj.GenerateResource.cache
+D:\Capgemini\WinReflectionDemo\obj\Debug\WinReflectionDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\WinReflectionDemo\obj\Debug\WinReflectionDemo.exe
+D:\Capgemini\WinReflectionDemo\obj\Debug\WinReflectionDemo.pdb

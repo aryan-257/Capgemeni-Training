@@ -1,0 +1,14 @@
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.exe
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.deps.json
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.runtimeconfig.json
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.dll
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.pdb
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.AssemblyInfoInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.AssemblyInfo.cs
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.csproj.CoreCompileInputs.cache
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.dll
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\obj\Debug\net10.0\refint\Day2DemoConsole.dll
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.pdb
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.genruntimeconfig.cache
+c:\Users\aryan\Desktop\capgemeni traning\day2\Day2DemoConsole\obj\Debug\net10.0\ref\Day2DemoConsole.dll

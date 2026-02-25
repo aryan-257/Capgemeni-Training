@@ -1,0 +1,10 @@
+D:\Capgemini\WinSerializationDemo\bin\Debug\WinSerializationDemo.exe.config
+D:\Capgemini\WinSerializationDemo\bin\Debug\WinSerializationDemo.exe
+D:\Capgemini\WinSerializationDemo\bin\Debug\WinSerializationDemo.pdb
+D:\Capgemini\WinSerializationDemo\obj\Debug\WinSerializationDemo.csproj.AssemblyReference.cache
+D:\Capgemini\WinSerializationDemo\obj\Debug\WinSerializationDemo.Form1.resources
+D:\Capgemini\WinSerializationDemo\obj\Debug\WinSerializationDemo.Properties.Resources.resources
+D:\Capgemini\WinSerializationDemo\obj\Debug\WinSerializationDemo.csproj.GenerateResource.cache
+D:\Capgemini\WinSerializationDemo\obj\Debug\WinSerializationDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\WinSerializationDemo\obj\Debug\WinSerializationDemo.exe
+D:\Capgemini\WinSerializationDemo\obj\Debug\WinSerializationDemo.pdb

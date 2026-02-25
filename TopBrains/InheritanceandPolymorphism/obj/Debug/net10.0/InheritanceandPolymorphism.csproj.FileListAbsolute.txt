@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\bin\Debug\net10.0\InheritanceandPolymorphism.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\bin\Debug\net10.0\InheritanceandPolymorphism.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\bin\Debug\net10.0\InheritanceandPolymorphism.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\bin\Debug\net10.0\InheritanceandPolymorphism.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\bin\Debug\net10.0\InheritanceandPolymorphism.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\obj\Debug\net10.0\InheritanceandPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\obj\Debug\net10.0\InheritanceandPolymorphism.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\obj\Debug\net10.0\InheritanceandPolymorphism.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\obj\Debug\net10.0\InheritanceandPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\obj\Debug\net10.0\InheritanceandPolymorphism.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\obj\Debug\net10.0\refint\InheritanceandPolymorphism.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\obj\Debug\net10.0\InheritanceandPolymorphism.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\obj\Debug\net10.0\InheritanceandPolymorphism.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\InheritanceandPolymorphism\obj\Debug\net10.0\ref\InheritanceandPolymorphism.dll

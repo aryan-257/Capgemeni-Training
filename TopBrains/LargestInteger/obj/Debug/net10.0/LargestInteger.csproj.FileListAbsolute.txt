@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\bin\Debug\net10.0\LargestInteger.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\bin\Debug\net10.0\LargestInteger.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\bin\Debug\net10.0\LargestInteger.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\bin\Debug\net10.0\LargestInteger.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\bin\Debug\net10.0\LargestInteger.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\obj\Debug\net10.0\LargestInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\obj\Debug\net10.0\LargestInteger.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\obj\Debug\net10.0\LargestInteger.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\obj\Debug\net10.0\LargestInteger.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\obj\Debug\net10.0\LargestInteger.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\obj\Debug\net10.0\refint\LargestInteger.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\obj\Debug\net10.0\LargestInteger.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\obj\Debug\net10.0\LargestInteger.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\LargestInteger\obj\Debug\net10.0\ref\LargestInteger.dll

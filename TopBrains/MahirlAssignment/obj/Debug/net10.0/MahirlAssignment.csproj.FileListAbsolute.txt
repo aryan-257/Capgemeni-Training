@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\bin\Debug\net10.0\MahirlAssignment.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\bin\Debug\net10.0\MahirlAssignment.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\bin\Debug\net10.0\MahirlAssignment.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\bin\Debug\net10.0\MahirlAssignment.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\bin\Debug\net10.0\MahirlAssignment.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\obj\Debug\net10.0\MahirlAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\obj\Debug\net10.0\MahirlAssignment.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\obj\Debug\net10.0\MahirlAssignment.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\obj\Debug\net10.0\MahirlAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\obj\Debug\net10.0\MahirlAssignment.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\obj\Debug\net10.0\refint\MahirlAssignment.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\obj\Debug\net10.0\MahirlAssignment.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\obj\Debug\net10.0\MahirlAssignment.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\TopBrains\MahirlAssignment\obj\Debug\net10.0\ref\MahirlAssignment.dll

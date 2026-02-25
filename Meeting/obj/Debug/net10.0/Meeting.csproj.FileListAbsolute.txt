@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\bin\Debug\net10.0\Meeting.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\bin\Debug\net10.0\Meeting.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\bin\Debug\net10.0\Meeting.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\bin\Debug\net10.0\Meeting.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\bin\Debug\net10.0\Meeting.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\obj\Debug\net10.0\Meeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\obj\Debug\net10.0\Meeting.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\obj\Debug\net10.0\Meeting.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\obj\Debug\net10.0\Meeting.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\obj\Debug\net10.0\Meeting.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\obj\Debug\net10.0\refint\Meeting.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\obj\Debug\net10.0\Meeting.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\obj\Debug\net10.0\Meeting.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Meeting\obj\Debug\net10.0\ref\Meeting.dll

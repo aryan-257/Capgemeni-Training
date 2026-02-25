@@ -1,0 +1,89 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LPU_BL/1.0.0": {
+        "dependencies": {
+          "LPU_Common": "1.0.0",
+          "LPU_DAL": "1.0.0",
+          "LPU_Entity": "1.0.0",
+          "LPU_Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "LPU_BL.dll": {}
+        }
+      },
+      "LPU_Common/1.0.0": {
+        "dependencies": {
+          "LPU_Entity": "1.0.0"
+        },
+        "runtime": {
+          "LPU_Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LPU_DAL/1.0.0": {
+        "dependencies": {
+          "LPU_Common": "1.0.0",
+          "LPU_Entity": "1.0.0",
+          "LPU_Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "LPU_DAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LPU_Entity/1.0.0": {
+        "runtime": {
+          "LPU_Entity.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LPU_Exceptions/1.0.0": {
+        "runtime": {
+          "LPU_Exceptions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LPU_BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LPU_Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LPU_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LPU_Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LPU_Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C806DE45-A061-4AEA-B94B-F801EBE66FC6}|ConArchDemo.csproj|c:\\users\\aryan\\desktop\\capgemeni traning\\vs studio\\conarchdemo\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806DE45-A061-4AEA-B94B-F801EBE66FC6}|ConArchDemo.csproj|solutionrelative:studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C806DE45-A061-4AEA-B94B-F801EBE66FC6}|ConArchDemo.csproj|C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806DE45-A061-4AEA-B94B-F801EBE66FC6}|ConArchDemo.csproj|solutionrelative:studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C806DE45-A061-4AEA-B94B-F801EBE66FC6}|ConArchDemo.csproj|C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806DE45-A061-4AEA-B94B-F801EBE66FC6}|ConArchDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C806DE45-A061-4AEA-B94B-F801EBE66FC6}|ConArchDemo.csproj|C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C806DE45-A061-4AEA-B94B-F801EBE66FC6}|ConArchDemo.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "StudentDAL.cs",
+              "ToolTip": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\StudentDAL.cs*",
+              "RelativeToolTip": "StudentDAL.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwEwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:34:03.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\StudentBL.cs",
+              "RelativeDocumentMoniker": "StudentBL.cs",
+              "ToolTip": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\StudentBL.cs",
+              "RelativeToolTip": "StudentBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:33:39.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:33:12.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aryan\\Desktop\\capgemeni traning\\VS Studio\\ConArchDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:32:14.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+\\172.31.11.47\Eurofins\Eurofins 2019\Materials\Iteration - 0\Thinking in Objects\OO_Labs_CSharp\Lab_03\bin\Debug\Lab_03.exe.config
+\\172.31.11.47\Eurofins\Eurofins 2019\Materials\Iteration - 0\Thinking in Objects\OO_Labs_CSharp\Lab_03\bin\Debug\Lab_03.exe
+\\172.31.11.47\Eurofins\Eurofins 2019\Materials\Iteration - 0\Thinking in Objects\OO_Labs_CSharp\Lab_03\bin\Debug\Lab_03.pdb
+\\172.31.11.47\Eurofins\Eurofins 2019\Materials\Iteration - 0\Thinking in Objects\OO_Labs_CSharp\Lab_03\obj\Debug\Lab_03.csprojAssemblyReference.cache
+\\172.31.11.47\Eurofins\Eurofins 2019\Materials\Iteration - 0\Thinking in Objects\OO_Labs_CSharp\Lab_03\obj\Debug\Lab_03.csproj.CoreCompileInputs.cache
+\\172.31.11.47\Eurofins\Eurofins 2019\Materials\Iteration - 0\Thinking in Objects\OO_Labs_CSharp\Lab_03\obj\Debug\Lab_03.exe
+\\172.31.11.47\Eurofins\Eurofins 2019\Materials\Iteration - 0\Thinking in Objects\OO_Labs_CSharp\Lab_03\obj\Debug\Lab_03.pdb

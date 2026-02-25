@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\bin\Debug\net10.0\CampusHireApplicantManagementSystem.exe
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\bin\Debug\net10.0\CampusHireApplicantManagementSystem.deps.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\bin\Debug\net10.0\CampusHireApplicantManagementSystem.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\bin\Debug\net10.0\CampusHireApplicantManagementSystem.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\bin\Debug\net10.0\CampusHireApplicantManagementSystem.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\obj\Debug\net10.0\CampusHireApplicantManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\obj\Debug\net10.0\CampusHireApplicantManagementSystem.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\obj\Debug\net10.0\CampusHireApplicantManagementSystem.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\obj\Debug\net10.0\CampusHireApplicantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\obj\Debug\net10.0\CampusHireApplicantManagementSystem.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\obj\Debug\net10.0\refint\CampusHireApplicantManagementSystem.dll
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\obj\Debug\net10.0\CampusHireApplicantManagementSystem.pdb
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\obj\Debug\net10.0\CampusHireApplicantManagementSystem.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\capgemeni traning\Assesment18Feb\CampusHireApplicantManagementSystem\obj\Debug\net10.0\ref\CampusHireApplicantManagementSystem.dll

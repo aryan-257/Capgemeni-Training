@@ -1,0 +1,12 @@
+D:\Capgemini\LPUManagementSystem\LPU_Entity\bin\Debug\net10.0\LPU_Entity.deps.json
+D:\Capgemini\LPUManagementSystem\LPU_Entity\bin\Debug\net10.0\LPU_Entity.dll
+D:\Capgemini\LPUManagementSystem\LPU_Entity\bin\Debug\net10.0\LPU_Entity.pdb
+D:\Capgemini\LPUManagementSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\LPUManagementSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.AssemblyInfoInputs.cache
+D:\Capgemini\LPUManagementSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.AssemblyInfo.cs
+D:\Capgemini\LPUManagementSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.csproj.CoreCompileInputs.cache
+D:\Capgemini\LPUManagementSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.sourcelink.json
+D:\Capgemini\LPUManagementSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.dll
+D:\Capgemini\LPUManagementSystem\LPU_Entity\obj\Debug\net10.0\refint\LPU_Entity.dll
+D:\Capgemini\LPUManagementSystem\LPU_Entity\obj\Debug\net10.0\LPU_Entity.pdb
+D:\Capgemini\LPUManagementSystem\LPU_Entity\obj\Debug\net10.0\ref\LPU_Entity.dll
