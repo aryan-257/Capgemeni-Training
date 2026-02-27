@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "QuickMartTraders/1.0.0": {
+      "MediSureClinic/1.0.0": {
         "runtime": {
-          "QuickMartTraders.dll": {}
+          "MediSureClinic.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "QuickMartTraders/1.0.0": {
+    "MediSureClinic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
