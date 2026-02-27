@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Our Fashion Store</h1>
+    <p class="lead">Discover the latest trends in men's, women's, and kids' clothing</p>
+    
+    <div class="row mt-5">
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <div class="card-body">
+                    <h3>Men's Collection</h3>
+                    <p>Stylish and comfortable clothing for men</p>
+                    <a asp-controller="Products" asp-action="Index" asp-route-category="Men" class="btn btn-primary">Shop Men</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <div class="card-body">
+                    <h3>Women's Collection</h3>
+                    <p>Trendy fashion for modern women</p>
+                    <a asp-controller="Products" asp-action="Index" asp-route-category="Women" class="btn btn-primary">Shop Women</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <div class="card-body">
+                    <h3>Kids' Collection</h3>
+                    <p>Fun and comfortable clothes for kids</p>
+                    <a asp-controller="Products" asp-action="Index" asp-route-category="Kids" class="btn btn-primary">Shop Kids</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-5">
+        <a asp-controller="Products" asp-action="Index" class="btn btn-success btn-lg">Shop All Products</a>
+    </div>
+</div>
