@@ -1,0 +1,99 @@
+@model FLIGHT_SEARCH_ENGINE.Models.SearchViewModel
+
+@{
+    ViewData["Title"] = "Flight Search Engine";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white text-center">
+                    <h2><i class="fas fa-plane"></i> ✈️ Flight Search Engine</h2>
+                    <p class="mb-0">Find the best flights and hotel packages</p>
+                </div>
+                <div class="card-body p-4">
+                    @if (ViewBag.Error != null)
+                    {
+                        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                            <i class="fas fa-exclamation-triangle"></i> @ViewBag.Error
+                            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        </div>
+                    }
+
+                    <form method="post" action="/Flight/SearchFlights">
+                        @Html.AntiForgeryToken()
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                        <div class="mb-4">
+                            <label asp-for="Source" class="form-label fw-bold">
+                                <i class="fas fa-map-marker-alt text-success"></i> Source Location
+                            </label>
+                            <select asp-for="Source" asp-items="Model.SourceList" class="form-select form-select-lg">
+                                <option value="">-- Select Source --</option>
+                            </select>
+                            <span asp-validation-for="Source" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Destination" class="form-label fw-bold">
+                                <i class="fas fa-map-marker-alt text-danger"></i> Destination Location
+                            </label>
+                            <select asp-for="Destination" asp-items="Model.DestinationList" class="form-select form-select-lg">
+                                <option value="">-- Select Destination --</option>
+                            </select>
+                            <span asp-validation-for="Destination" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="NumberOfPersons" class="form-label fw-bold">
+                                <i class="fas fa-users text-info"></i> Number of Persons
+                            </label>
+                            <input asp-for="NumberOfPersons" type="number" class="form-control form-control-lg" 
+                                   min="1" max="10" value="1" placeholder="Enter number of travelers (1-10)" />
+                            <span asp-validation-for="NumberOfPersons" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-grid gap-3">
+                            <button type="submit" class="btn btn-success btn-lg">
+                                <i class="fas fa-plane-departure"></i> Search Flights Only
+                            </button>
+                            
+                            <button type="submit" formaction="/Flight/SearchFlightsWithHotels" class="btn btn-warning btn-lg">
+                                <i class="fas fa-hotel"></i> Search Flight + Hotel Package
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="card mt-4 shadow">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-info-circle text-primary"></i> Search Tips</h5>
+                    <ul class="mb-0">
+                        <li>Select different source and destination cities</li>
+                        <li>Number of persons must be between 1 and 10</li>
+                        <li>Flight Only shows available flights with total cost</li>
+                        <li>Flight + Hotel shows package deals with accommodation</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Simple validation only
+        $('form').on('submit', function(e) {
+            var source = $('select[name="Source"]').val();
+            var destination = $('select[name="Destination"]').val();
+            
+            if (source === destination && source !== '') {
+                alert('Source and Destination cannot be the same!');
+                e.preventDefault();
+                return false;
+            }
+        });
+    </script>
+}

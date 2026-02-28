@@ -29,7 +29,7 @@
                         <span class="badge bg-secondary mb-2 align-self-start">@product.Category</span>
                         <h5 class="card-title">@product.Name</h5>
                         <p class="card-text">@product.Description</p>
-                        <p class="card-text"><strong>$@product.Price.ToString("F2")</strong></p>
+                        <p class="card-text"><strong>₹@product.Price.ToString("N2")</strong></p>
                         <p class="card-text text-muted small">Stock: @product.Stock</p>
                         <div class="mt-auto">
                             <form asp-action="AddToCart" method="post" class="d-inline">
@@ -56,7 +56,7 @@
                         </div>
                         <div class="modal-body">
                             <h6>@product.Name</h6>
-                            <p>Price: $@product.Price.ToString("F2")</p>
+                            <p>Price: ₹@product.Price.ToString("N2")</p>
                             <p>@product.Description</p>
                         </div>
                         <div class="modal-footer">

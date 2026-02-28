@@ -9,19 +9,19 @@ namespace Ecommerce_Inventory.Controllers
         private static List<Product> _products = new()
         {
             // Men's Clothing
-            new Product { Id = 1, Name = "Men's Classic T-Shirt", Description = "Comfortable cotton t-shirt", Price = 29.99m, Category = "Men", ImageUrl = "https://via.placeholder.com/300x400?text=Men+T-Shirt", Stock = 50 },
-            new Product { Id = 2, Name = "Men's Denim Jeans", Description = "Stylish blue denim jeans", Price = 59.99m, Category = "Men", ImageUrl = "https://via.placeholder.com/300x400?text=Men+Jeans", Stock = 30 },
-            new Product { Id = 3, Name = "Men's Formal Shirt", Description = "Professional formal shirt", Price = 49.99m, Category = "Men", ImageUrl = "https://via.placeholder.com/300x400?text=Men+Shirt", Stock = 40 },
+            new Product { Id = 1, Name = "Men's Classic T-Shirt", Description = "Comfortable cotton t-shirt", Price = 2499.00m, Category = "Men", ImageUrl = "/Images/men-classic-tshirt.jpg", Stock = 50 },
+            new Product { Id = 2, Name = "Men's Denim Jeans", Description = "Stylish blue denim jeans", Price = 4999.00m, Category = "Men", ImageUrl = "/Images/men-dennim-jeans.jpg", Stock = 30 },
+            new Product { Id = 3, Name = "Men's Formal Shirt", Description = "Professional formal shirt", Price = 4149.00m, Category = "Men", ImageUrl = "/Images/men-shirt.jpg", Stock = 40 },
             
             // Women's Clothing
-            new Product { Id = 4, Name = "Women's Summer Dress", Description = "Light and breezy summer dress", Price = 69.99m, Category = "Women", ImageUrl = "https://via.placeholder.com/300x400?text=Women+Dress", Stock = 25 },
-            new Product { Id = 5, Name = "Women's Casual Top", Description = "Trendy casual top", Price = 34.99m, Category = "Women", ImageUrl = "https://via.placeholder.com/300x400?text=Women+Top", Stock = 45 },
-            new Product { Id = 6, Name = "Women's Skinny Jeans", Description = "Comfortable skinny fit jeans", Price = 54.99m, Category = "Women", ImageUrl = "https://via.placeholder.com/300x400?text=Women+Jeans", Stock = 35 },
+            new Product { Id = 4, Name = "Women's Summer Dress", Description = "Light and breezy summer dress", Price = 5799.00m, Category = "Women", ImageUrl = "/Images/women-dress.jpg", Stock = 25 },
+            new Product { Id = 5, Name = "Women's Casual Top", Description = "Trendy casual top", Price = 2899.00m, Category = "Women", ImageUrl = "/Images/women-top.jpg", Stock = 45 },
+            new Product { Id = 6, Name = "Women's Skinny Jeans", Description = "Comfortable skinny fit jeans", Price = 4599.00m, Category = "Women", ImageUrl = "/Images/women-jeans.jpg", Stock = 35 },
             
             // Kids' Clothing
-            new Product { Id = 7, Name = "Kids' Graphic T-Shirt", Description = "Fun graphic print t-shirt", Price = 19.99m, Category = "Kids", ImageUrl = "https://via.placeholder.com/300x400?text=Kids+T-Shirt", Stock = 60 },
-            new Product { Id = 8, Name = "Kids' Shorts", Description = "Comfortable play shorts", Price = 24.99m, Category = "Kids", ImageUrl = "https://via.placeholder.com/300x400?text=Kids+Shorts", Stock = 55 },
-            new Product { Id = 9, Name = "Kids' Hoodie", Description = "Warm and cozy hoodie", Price = 39.99m, Category = "Kids", ImageUrl = "https://via.placeholder.com/300x400?text=Kids+Hoodie", Stock = 40 }
+            new Product { Id = 7, Name = "Kids' Graphic T-Shirt", Description = "Fun graphic print t-shirt", Price = 1659.00m, Category = "Kids", ImageUrl = "/Images/kids-tshirt.jpg", Stock = 60 },
+            new Product { Id = 8, Name = "Kids' Shorts", Description = "Comfortable play shorts", Price = 2099.00m, Category = "Kids", ImageUrl = "/Images/kids-shorts.jpg", Stock = 55 },
+            new Product { Id = 9, Name = "Kids' Hoodie", Description = "Warm and cozy hoodie", Price = 3319.00m, Category = "Kids", ImageUrl = "/Images/kids-hoodie.jpg", Stock = 40 }
         };
 
         public IActionResult Index(string category = "All")

@@ -1,0 +1,74 @@
+========================================
+FLIGHT SEARCH ENGINE - HOW TO RUN
+========================================
+
+STEP 1: Setup Database
+-----------------------
+1. Open SQL Server Management Studio (SSMS)
+2. Execute file: Database/FlightSearchEngine_Database.sql
+3. Done! (Creates database with 16 flights and 6 hotels)
+
+STEP 2: Update Connection String
+---------------------------------
+Open: appsettings.json
+
+Replace connection string with YOUR SQL Server instance:
+
+For SQL Express (most common):
+"DefaultConnection": "Server=.\\SQLEXPRESS;Database=FlightSearchEngineDB;Integrated Security=True;TrustServerCertificate=True;Encrypt=False;"
+
+For default SQL Server:
+"DefaultConnection": "Server=(local);Database=FlightSearchEngineDB;Integrated Security=True;TrustServerCertificate=True;Encrypt=False;"
+
+STEP 3: Run Application
+------------------------
+Open terminal in project folder and run:
+
+    dotnet run
+
+Then open browser: https://localhost:5001
+
+========================================
+TESTING
+========================================
+
+Test Page (Simple, No JavaScript):
+https://localhost:5001/Flight/Test
+
+Main Page:
+https://localhost:5001/Flight/Index
+
+Quick Test:
+- Source: Delhi
+- Destination: Bangalore
+- Persons: 1
+- Click "Search Flights Only"
+- Should show 1 flight result
+
+========================================
+TROUBLESHOOTING
+========================================
+
+Problem: Empty dropdowns
+Solution: Check connection string matches your SQL Server instance
+
+Problem: Can't connect to SQL Server
+Solution: Ensure SQL Server service is running (services.msc)
+
+Problem: Continuous loading
+Solution: Use test page first: https://localhost:5001/Flight/Test
+
+========================================
+PROJECT FILES
+========================================
+
+Essential Files:
+- Controllers/FlightController.cs
+- Models/SearchViewModel.cs, FlightResult.cs, FlightHotelResult.cs
+- Views/Flight/Index.cshtml, Results.cshtml, Test.cshtml
+- Data/DatabaseHelper.cs
+- Database/FlightSearchEngine_Database.sql
+- appsettings.json
+- Program.cs
+
+========================================

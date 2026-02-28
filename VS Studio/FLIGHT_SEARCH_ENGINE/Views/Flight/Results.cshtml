@@ -1,0 +1,151 @@
+@using FLIGHT_SEARCH_ENGINE.Models
+
+@{
+    ViewData["Title"] = "Search Results";
+    var isFlightOnly = Model is IEnumerable<FlightResult>;
+    var isFlightHotel = Model is IEnumerable<FlightHotelResult>;
+}
+
+<div class="container mt-5">
+    <!-- Breadcrumb Navigation -->
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Flight" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Search Results</li>
+        </ol>
+    </nav>
+
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <h2 class="mb-0">
+                <i class="fas fa-search"></i> @ViewBag.SearchType Results
+            </h2>
+            <p class="mb-0 mt-2">
+                <strong>Route:</strong> @ViewBag.Source <i class="fas fa-arrow-right"></i> @ViewBag.Destination | 
+                <strong>Travelers:</strong> @ViewBag.Persons person(s)
+            </p>
+        </div>
+        <div class="card-body">
+            @if (isFlightOnly)
+            {
+                var flightResults = Model as IEnumerable<FlightResult>;
+                
+                @if (flightResults == null || !flightResults.Any())
+                {
+                    <div class="alert alert-warning text-center" role="alert">
+                        <i class="fas fa-exclamation-circle fa-3x mb-3"></i>
+                        <h4>No Results Found</h4>
+                        <p>Sorry, no flights are available for the selected route.</p>
+                        <a asp-controller="Flight" asp-action="Index" class="btn btn-primary mt-3">
+                            <i class="fas fa-arrow-left"></i> Back to Search
+                        </a>
+                    </div>
+                }
+                else
+                {
+                    <div class="alert alert-success">
+                        <i class="fas fa-check-circle"></i> Found <strong>@flightResults.Count()</strong> flight(s) for your search
+                    </div>
+
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover table-bordered">
+                            <thead class="table-dark">
+                                <tr>
+                                    <th><i class="fas fa-hashtag"></i> Flight ID</th>
+                                    <th><i class="fas fa-plane"></i> Flight Name</th>
+                                    <th><i class="fas fa-tag"></i> Flight Type</th>
+                                    <th><i class="fas fa-map-marker-alt"></i> Source</th>
+                                    <th><i class="fas fa-map-marker-alt"></i> Destination</th>
+                                    <th><i class="fas fa-rupee-sign"></i> Total Cost</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var flight in flightResults)
+                                {
+                                    <tr>
+                                        <td>@flight.FlightId</td>
+                                        <td><strong>@flight.FlightName</strong></td>
+                                        <td>
+                                            <span class="badge @(flight.FlightType == "Domestic" ? "bg-info" : "bg-success")">
+                                                @flight.FlightType
+                                            </span>
+                                        </td>
+                                        <td>@flight.Source</td>
+                                        <td>@flight.Destination</td>
+                                        <td class="fw-bold text-success">₹ @flight.TotalCost.ToString("N2")</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+            }
+            else if (isFlightHotel)
+            {
+                var packageResults = Model as IEnumerable<FlightHotelResult>;
+                
+                @if (packageResults == null || !packageResults.Any())
+                {
+                    <div class="alert alert-warning text-center" role="alert">
+                        <i class="fas fa-exclamation-circle fa-3x mb-3"></i>
+                        <h4>No Results Found</h4>
+                        <p>Sorry, no flight+hotel packages are available for the selected route.</p>
+                        <a asp-controller="Flight" asp-action="Index" class="btn btn-primary mt-3">
+                            <i class="fas fa-arrow-left"></i> Back to Search
+                        </a>
+                    </div>
+                }
+                else
+                {
+                    <div class="alert alert-success">
+                        <i class="fas fa-check-circle"></i> Found <strong>@packageResults.Count()</strong> package(s) for your search
+                    </div>
+
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover table-bordered">
+                            <thead class="table-dark">
+                                <tr>
+                                    <th><i class="fas fa-hashtag"></i> Flight ID</th>
+                                    <th><i class="fas fa-plane"></i> Flight Name</th>
+                                    <th><i class="fas fa-map-marker-alt"></i> Source</th>
+                                    <th><i class="fas fa-map-marker-alt"></i> Destination</th>
+                                    <th><i class="fas fa-hotel"></i> Hotel Name</th>
+                                    <th><i class="fas fa-rupee-sign"></i> Total Cost</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var package in packageResults)
+                                {
+                                    <tr>
+                                        <td>@package.FlightId</td>
+                                        <td><strong>@package.FlightName</strong></td>
+                                        <td>@package.Source</td>
+                                        <td>@package.Destination</td>
+                                        <td>
+                                            <i class="fas fa-hotel text-warning"></i> @package.HotelName
+                                        </td>
+                                        <td class="fw-bold text-success">₹ @package.TotalCost.ToString("N2")</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class="alert alert-danger text-center" role="alert">
+                    <i class="fas fa-times-circle fa-3x mb-3"></i>
+                    <h4>Error</h4>
+                    <p>Unable to display results. Invalid data format.</p>
+                </div>
+            }
+
+            <div class="text-center mt-4">
+                <a asp-controller="Flight" asp-action="Index" class="btn btn-primary btn-lg">
+                    <i class="fas fa-arrow-left"></i> Back to Search
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

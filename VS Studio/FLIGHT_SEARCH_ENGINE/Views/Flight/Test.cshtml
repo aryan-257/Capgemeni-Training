@@ -1,0 +1,50 @@
+@{
+    ViewData["Title"] = "Test Page";
+}
+
+<div class="container mt-5">
+    <div class="alert alert-success">
+        <h2>✅ Test Page Works!</h2>
+        <p>If you can see this, the routing and views are working correctly.</p>
+    </div>
+    
+    <div class="card">
+        <div class="card-body">
+            <h3>Simple Test Form</h3>
+            <form method="post" action="/Flight/SearchFlights">
+                @Html.AntiForgeryToken()
+                
+                <div class="mb-3">
+                    <label>Source:</label>
+                    <select name="Source" class="form-control" required>
+                        <option value="">Select</option>
+                        <option value="Delhi">Delhi</option>
+                        <option value="Mumbai">Mumbai</option>
+                        <option value="Bangalore">Bangalore</option>
+                    </select>
+                </div>
+                
+                <div class="mb-3">
+                    <label>Destination:</label>
+                    <select name="Destination" class="form-control" required>
+                        <option value="">Select</option>
+                        <option value="Delhi">Delhi</option>
+                        <option value="Mumbai">Mumbai</option>
+                        <option value="Bangalore">Bangalore</option>
+                    </select>
+                </div>
+                
+                <div class="mb-3">
+                    <label>Number of Persons:</label>
+                    <input type="number" name="NumberOfPersons" class="form-control" value="1" min="1" max="10" required />
+                </div>
+                
+                <button type="submit" class="btn btn-primary">Search (No JavaScript)</button>
+            </form>
+        </div>
+    </div>
+    
+    <div class="mt-3">
+        <a href="/Flight/Index" class="btn btn-secondary">Back to Main Form</a>
+    </div>
+</div>
