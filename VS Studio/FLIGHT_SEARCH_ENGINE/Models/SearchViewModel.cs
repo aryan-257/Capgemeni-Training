@@ -3,9 +3,6 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace FLIGHT_SEARCH_ENGINE.Models
 {
-    /// <summary>
-    /// ViewModel for handling search form data and dropdown lists
-    /// </summary>
     public class SearchViewModel
     {
         [Required(ErrorMessage = "Please select a source location")]
@@ -21,10 +18,7 @@ namespace FLIGHT_SEARCH_ENGINE.Models
         [Display(Name = "Number of Persons")]
         public int NumberOfPersons { get; set; }
 
-        // Dropdown data for sources
         public SelectList? SourceList { get; set; }
-
-        // Dropdown data for destinations
         public SelectList? DestinationList { get; set; }
     }
 }

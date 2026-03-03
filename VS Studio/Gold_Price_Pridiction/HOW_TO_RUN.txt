@@ -1,0 +1,70 @@
+================================================================================
+🚀 YOUR PROJECT IS NOW RUNNING!
+================================================================================
+
+✅ Python API (Demo Mode):  http://localhost:5000
+✅ ASP.NET MVC Application: http://localhost:5246
+
+================================================================================
+📱 OPEN IN YOUR BROWSER:
+================================================================================
+
+Main Application:
+👉 http://localhost:5246
+
+Prediction Page (Start Here):
+👉 http://localhost:5246/Prediction
+
+Dashboard:
+👉 http://localhost:5246/Prediction/Dashboard
+
+Python API Health Check:
+👉 http://localhost:5000/health
+
+================================================================================
+🎯 HOW TO USE:
+================================================================================
+
+1. Open: http://localhost:5246/Prediction
+
+2. Fill the form:
+   - Select Metal: Gold or Silver
+   - Choose Date: Any future date
+   - Click "Predict Price"
+
+3. View Results:
+   - See predicted price
+   - Confidence score
+   - Prediction details
+
+4. Check Dashboard:
+   - Go to Dashboard page
+   - View charts and analytics
+
+================================================================================
+🛑 TO STOP THE SERVERS:
+================================================================================
+
+Press Ctrl+C in the terminal windows or close them.
+
+================================================================================
+🔄 TO RESTART:
+================================================================================
+
+Terminal 1 (Python API):
+cd Python_ML_Service
+python api_demo.py
+
+Terminal 2 (ASP.NET):
+dotnet run
+
+================================================================================
+✅ CURRENT STATUS:
+================================================================================
+
+Python API:     ✅ Running on port 5000
+ASP.NET MVC:    ✅ Running on port 5246
+Mode:           Demo (simulated predictions)
+Status:         Ready for testing!
+
+================================================================================

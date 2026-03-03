@@ -1,8 +1,5 @@
 namespace FLIGHT_SEARCH_ENGINE.Models
 {
-    /// <summary>
-    /// Model to store flight+hotel package search results
-    /// </summary>
     public class FlightHotelResult
     {
         public int FlightId { get; set; }

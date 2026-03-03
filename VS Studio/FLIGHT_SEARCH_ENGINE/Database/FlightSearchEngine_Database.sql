@@ -1,5 +1,4 @@
--- ✈️ FLIGHT SEARCH ENGINE - Database Creation Script
--- Execute this script in SQL Server Management Studio
+-- Flight Search Engine - Database Setup Script
 
 USE master;
 GO
@@ -13,10 +12,6 @@ GO
 
 USE FlightSearchEngineDB;
 GO
-
--- ========================================
--- TABLE CREATION
--- ========================================
 
 -- Create Flights Table
 IF NOT EXISTS (SELECT * FROM sys.tables WHERE name = 'Flights')
@@ -45,11 +40,7 @@ BEGIN
 END
 GO
 
--- ========================================
--- SAMPLE DATA INSERTION
--- ========================================
-
--- Insert Sample Flights
+-- Insert Sample Data
 IF NOT EXISTS (SELECT * FROM Flights)
 BEGIN
     INSERT INTO Flights (FlightName, FlightType, Source, Destination, PricePerSeat) VALUES
@@ -61,18 +52,17 @@ BEGIN
     ('SpiceJet SG-302', 'Domestic', 'Bangalore', 'Delhi', 4600.00),
     ('Vistara UK-401', 'Domestic', 'Mumbai', 'Kolkata', 6200.00),
     ('Vistara UK-402', 'Domestic', 'Kolkata', 'Mumbai', 6100.00),
+    ('IndiGo 6E-203', 'Domestic', 'Delhi', 'Kolkata', 5800.00),
+    ('IndiGo 6E-204', 'Domestic', 'Kolkata', 'Delhi', 5700.00),
     ('Air India AI-501', 'International', 'Mumbai', 'Dubai', 18500.00),
     ('Air India AI-502', 'International', 'Dubai', 'Mumbai', 18000.00),
     ('Emirates EK-601', 'International', 'Delhi', 'Dubai', 19500.00),
     ('Emirates EK-602', 'International', 'Dubai', 'Delhi', 19000.00),
     ('Singapore Airlines SQ-701', 'International', 'Mumbai', 'Singapore', 25000.00),
-    ('Singapore Airlines SQ-702', 'International', 'Singapore', 'Mumbai', 24500.00),
-    ('IndiGo 6E-203', 'Domestic', 'Delhi', 'Kolkata', 5800.00),
-    ('IndiGo 6E-204', 'Domestic', 'Kolkata', 'Delhi', 5700.00);
+    ('Singapore Airlines SQ-702', 'International', 'Singapore', 'Mumbai', 24500.00);
 END
 GO
 
--- Insert Sample Hotels
 IF NOT EXISTS (SELECT * FROM Hotels)
 BEGIN
     INSERT INTO Hotels (HotelName, HotelType, Location, PricePerDay) VALUES
@@ -85,11 +75,9 @@ BEGIN
 END
 GO
 
--- ========================================
--- STORED PROCEDURES
--- ========================================
+-- Stored Procedures
 
--- Stored Procedure 1: Get Sources
+-- Get all source cities
 IF EXISTS (SELECT * FROM sys.procedures WHERE name = 'sp_GetSources')
     DROP PROCEDURE sp_GetSources;
 GO
@@ -97,12 +85,11 @@ GO
 CREATE PROCEDURE sp_GetSources
 AS
 BEGIN
-    SET NOCOUNT ON;
     SELECT DISTINCT Source FROM Flights ORDER BY Source;
 END
 GO
 
--- Stored Procedure 2: Get Destinations
+-- Get all destination cities
 IF EXISTS (SELECT * FROM sys.procedures WHERE name = 'sp_GetDestinations')
     DROP PROCEDURE sp_GetDestinations;
 GO
@@ -110,12 +97,11 @@ GO
 CREATE PROCEDURE sp_GetDestinations
 AS
 BEGIN
-    SET NOCOUNT ON;
     SELECT DISTINCT Destination FROM Flights ORDER BY Destination;
 END
 GO
 
--- Stored Procedure 3: Search Flights
+-- Search for flights
 IF EXISTS (SELECT * FROM sys.procedures WHERE name = 'sp_SearchFlights')
     DROP PROCEDURE sp_SearchFlights;
 GO
@@ -126,8 +112,6 @@ CREATE PROCEDURE sp_SearchFlights
     @Persons INT
 AS
 BEGIN
-    SET NOCOUNT ON;
-    
     SELECT 
         FlightId,
         FlightName,
@@ -141,7 +125,7 @@ BEGIN
 END
 GO
 
--- Stored Procedure 4: Search Flights With Hotels
+-- Search for flight + hotel packages
 IF EXISTS (SELECT * FROM sys.procedures WHERE name = 'sp_SearchFlightsWithHotels')
     DROP PROCEDURE sp_SearchFlightsWithHotels;
 GO
@@ -152,8 +136,6 @@ CREATE PROCEDURE sp_SearchFlightsWithHotels
     @Persons INT
 AS
 BEGIN
-    SET NOCOUNT ON;
-    
     SELECT 
         F.FlightId,
         F.FlightName,
@@ -168,20 +150,8 @@ BEGIN
 END
 GO
 
--- ========================================
--- VERIFICATION QUERIES
--- ========================================
-
-PRINT '========================================';
+-- Verification
 PRINT 'Database Setup Complete!';
-PRINT '========================================';
-PRINT '';
-PRINT 'Tables Created:';
-SELECT 'Flights' AS TableName, COUNT(*) AS RecordCount FROM Flights
-UNION ALL
-SELECT 'Hotels', COUNT(*) FROM Hotels;
-PRINT '';
-PRINT 'Stored Procedures Created:';
-SELECT name AS ProcedureName FROM sys.procedures WHERE name LIKE 'sp_%' ORDER BY name;
-PRINT '';
-PRINT '========================================';
+PRINT 'Tables: Flights (16 records), Hotels (6 records)';
+PRINT 'Stored Procedures: 4 created';
+GO

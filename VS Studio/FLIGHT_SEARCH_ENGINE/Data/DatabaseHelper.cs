@@ -4,27 +4,17 @@ using FLIGHT_SEARCH_ENGINE.Models;
 
 namespace FLIGHT_SEARCH_ENGINE.Data
 {
-    /// <summary>
-    /// Database helper class for executing stored procedures and retrieving data
-    /// </summary>
+    // Handles all database operations using stored procedures
     public class DatabaseHelper
     {
         private readonly string _connectionString;
 
-        /// <summary>
-        /// Constructor to initialize database connection
-        /// </summary>
-        /// <param name="configuration">IConfiguration to read connection string</param>
         public DatabaseHelper(IConfiguration configuration)
         {
-            _connectionString = configuration.GetConnectionString("DefaultConnection") 
-                ?? throw new ArgumentNullException(nameof(configuration), "Connection string not found");
+            _connectionString = configuration.GetConnectionString("DefaultConnection");
         }
 
-        /// <summary>
-        /// Retrieve all distinct source locations from Flights table
-        /// </summary>
-        /// <returns>List of source cities</returns>
+        // Get list of source cities for dropdown
         public async Task<List<string>> GetSourcesAsync()
         {
             var sources = new List<string>();
@@ -34,14 +24,13 @@ namespace FLIGHT_SEARCH_ENGINE.Data
                 using (var command = new SqlCommand("sp_GetSources", connection))
                 {
                     command.CommandType = CommandType.StoredProcedure;
-
                     await connection.OpenAsync();
 
                     using (var reader = await command.ExecuteReaderAsync())
                     {
                         while (await reader.ReadAsync())
                         {
-                            sources.Add(reader["Source"].ToString() ?? string.Empty);
+                            sources.Add(reader["Source"].ToString());
                         }
                     }
                 }
@@ -50,10 +39,7 @@ namespace FLIGHT_SEARCH_ENGINE.Data
             return sources;
         }
 
-        /// <summary>
-        /// Retrieve all distinct destination locations from Flights table
-        /// </summary>
-        /// <returns>List of destination cities</returns>
+        // Get list of destination cities for dropdown
         public async Task<List<string>> GetDestinationsAsync()
         {
             var destinations = new List<string>();
@@ -63,14 +49,13 @@ namespace FLIGHT_SEARCH_ENGINE.Data
                 using (var command = new SqlCommand("sp_GetDestinations", connection))
                 {
                     command.CommandType = CommandType.StoredProcedure;
-
                     await connection.OpenAsync();
 
                     using (var reader = await command.ExecuteReaderAsync())
                     {
                         while (await reader.ReadAsync())
                         {
-                            destinations.Add(reader["Destination"].ToString() ?? string.Empty);
+                            destinations.Add(reader["Destination"].ToString());
                         }
                     }
                 }
@@ -79,13 +64,7 @@ namespace FLIGHT_SEARCH_ENGINE.Data
             return destinations;
         }
 
-        /// <summary>
-        /// Search for flights matching criteria
-        /// </summary>
-        /// <param name="source">Source city</param>
-        /// <param name="destination">Destination city</param>
-        /// <param name="persons">Number of travelers</param>
-        /// <returns>List of matching flights with total cost</returns>
+        // Search for flights based on user input
         public async Task<List<FlightResult>> SearchFlightsAsync(string source, string destination, int persons)
         {
             var flights = new List<FlightResult>();
@@ -95,8 +74,6 @@ namespace FLIGHT_SEARCH_ENGINE.Data
                 using (var command = new SqlCommand("sp_SearchFlights", connection))
                 {
                     command.CommandType = CommandType.StoredProcedure;
-
-                    // Add parameters
                     command.Parameters.AddWithValue("@Source", source);
                     command.Parameters.AddWithValue("@Destination", destination);
                     command.Parameters.AddWithValue("@Persons", persons);
@@ -107,15 +84,16 @@ namespace FLIGHT_SEARCH_ENGINE.Data
                     {
                         while (await reader.ReadAsync())
                         {
-                            flights.Add(new FlightResult
+                            var flight = new FlightResult
                             {
                                 FlightId = Convert.ToInt32(reader["FlightId"]),
-                                FlightName = reader["FlightName"].ToString() ?? string.Empty,
-                                FlightType = reader["FlightType"].ToString() ?? string.Empty,
-                                Source = reader["Source"].ToString() ?? string.Empty,
-                                Destination = reader["Destination"].ToString() ?? string.Empty,
+                                FlightName = reader["FlightName"].ToString(),
+                                FlightType = reader["FlightType"].ToString(),
+                                Source = reader["Source"].ToString(),
+                                Destination = reader["Destination"].ToString(),
                                 TotalCost = Convert.ToDecimal(reader["TotalCost"])
-                            });
+                            };
+                            flights.Add(flight);
                         }
                     }
                 }
@@ -124,13 +102,7 @@ namespace FLIGHT_SEARCH_ENGINE.Data
             return flights;
         }
 
-        /// <summary>
-        /// Search for flight+hotel packages matching criteria
-        /// </summary>
-        /// <param name="source">Source city</param>
-        /// <param name="destination">Destination city</param>
-        /// <param name="persons">Number of travelers</param>
-        /// <returns>List of matching flight+hotel packages with total cost</returns>
+        // Search for flight + hotel packages
         public async Task<List<FlightHotelResult>> SearchFlightsWithHotelsAsync(string source, string destination, int persons)
         {
             var packages = new List<FlightHotelResult>();
@@ -140,8 +112,6 @@ namespace FLIGHT_SEARCH_ENGINE.Data
                 using (var command = new SqlCommand("sp_SearchFlightsWithHotels", connection))
                 {
                     command.CommandType = CommandType.StoredProcedure;
-
-                    // Add parameters
                     command.Parameters.AddWithValue("@Source", source);
                     command.Parameters.AddWithValue("@Destination", destination);
                     command.Parameters.AddWithValue("@Persons", persons);
@@ -152,15 +122,16 @@ namespace FLIGHT_SEARCH_ENGINE.Data
                     {
                         while (await reader.ReadAsync())
                         {
-                            packages.Add(new FlightHotelResult
+                            var package = new FlightHotelResult
                             {
                                 FlightId = Convert.ToInt32(reader["FlightId"]),
-                                FlightName = reader["FlightName"].ToString() ?? string.Empty,
-                                Source = reader["Source"].ToString() ?? string.Empty,
-                                Destination = reader["Destination"].ToString() ?? string.Empty,
-                                HotelName = reader["HotelName"].ToString() ?? string.Empty,
+                                FlightName = reader["FlightName"].ToString(),
+                                Source = reader["Source"].ToString(),
+                                Destination = reader["Destination"].ToString(),
+                                HotelName = reader["HotelName"].ToString(),
                                 TotalCost = Convert.ToDecimal(reader["TotalCost"])
-                            });
+                            };
+                            packages.Add(package);
                         }
                     }
                 }
