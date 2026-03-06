@@ -1,0 +1,40 @@
+@model SevicesDemo.Models.CalculatorViewModel
+
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<div class="container mt-5">
+    <h2>Calculator</h2>
+    
+    <form asp-action="Calculate" method="post" class="mt-4">
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <label>First Number</label>
+                <input asp-for="Number1" class="form-control" type="number" step="any" required />
+            </div>
+            <div class="col-md-6">
+                <label>Second Number</label>
+                <input asp-for="Number2" class="form-control" type="number" step="any" required />
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label>Choose Operation</label>
+            <select asp-for="Operation" class="form-select" required>
+                <option value="">-- Pick one --</option>
+                <option value="add">Add</option>
+                <option value="subtract">Subtract</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Calculate</button>
+    </form>
+
+    @if (Model.Result.HasValue)
+    {
+        <div class="alert alert-success mt-4">
+            <h4>Result: @Model.Result.Value</h4>
+        </div>
+    }
+</div>
