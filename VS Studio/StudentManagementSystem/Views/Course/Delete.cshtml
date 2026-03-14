@@ -1,0 +1,35 @@
+@model StudentManagementSystem.Models.Course
+@{
+    ViewData["Title"] = "Delete Course";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <h2>Delete Course</h2>
+        <hr />
+        <h3>Are you sure you want to delete this?</h3>
+        <div class="card">
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-3">Course Name</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.CourseName)</dd>
+                    
+                    <dt class="col-sm-3">Duration</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.Duration)</dd>
+                    
+                    <dt class="col-sm-3">Fees</dt>
+                    <dd class="col-sm-9">$@Html.DisplayFor(model => model.Fees)</dd>
+                    
+                    <dt class="col-sm-3">Department</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.Department.DepartmentName)</dd>
+                </dl>
+            </div>
+        </div>
+        
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="CourseId" />
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </form>
+    </div>
+</div>

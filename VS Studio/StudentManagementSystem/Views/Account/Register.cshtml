@@ -1,0 +1,164 @@
+@model StudentManagementSystem.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="text-center">Register</h3>
+            </div>
+            <div class="card-body">
+                <form asp-action="Register" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label asp-for="FullName" class="form-label"></label>
+                                <input asp-for="FullName" class="form-control" />
+                                <span asp-validation-for="FullName" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label asp-for="Email" class="form-label"></label>
+                                <input asp-for="Email" class="form-control" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label asp-for="Password" class="form-label"></label>
+                                <input asp-for="Password" class="form-control" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label asp-for="ConfirmPassword" class="form-label"></label>
+                                <input asp-for="ConfirmPassword" class="form-control" />
+                                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <label asp-for="Role" class="form-label"></label>
+                        <select asp-for="Role" class="form-control" id="roleSelect">
+                            <option value="">Select Role</option>
+                            <option value="Teacher">Teacher</option>
+                            <option value="Student">Student</option>
+                        </select>
+                        <span asp-validation-for="Role" class="text-danger"></span>
+                    </div>
+                    
+                    <!-- Student-specific fields -->
+                    <div id="studentFields" style="display: none;">
+                        <hr />
+                        <h5>Student Information</h5>
+                        
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="PhoneNumber" class="form-label"></label>
+                                    <input asp-for="PhoneNumber" class="form-control" />
+                                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Address" class="form-label"></label>
+                                    <textarea asp-for="Address" class="form-control" rows="2"></textarea>
+                                    <span asp-validation-for="Address" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="DepartmentId" class="form-label">Department</label>
+                                    <select asp-for="DepartmentId" class="form-control" id="departmentSelect">
+                                        <option value="">Select Department</option>
+                                        @if (ViewBag.Departments != null)
+                                        {
+                                            @foreach (var dept in ViewBag.Departments)
+                                            {
+                                                <option value="@dept.DepartmentId">@dept.DepartmentName</option>
+                                            }
+                                        }
+                                    </select>
+                                    <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="CourseId" class="form-label">Course</label>
+                                    <select asp-for="CourseId" class="form-control" id="courseSelect">
+                                        <option value="">Select Course</option>
+                                    </select>
+                                    <span asp-validation-for="CourseId" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group mb-3">
+                        <button type="submit" class="btn btn-success w-100">Register</button>
+                    </div>
+                    
+                    <div class="text-center">
+                        <p>Already have an account? <a asp-action="Login">Login here</a></p>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(document).ready(function () {
+            // Show/hide student fields based on role selection
+            $('#roleSelect').change(function () {
+                if ($(this).val() === 'Student') {
+                    $('#studentFields').show();
+                } else {
+                    $('#studentFields').hide();
+                }
+            });
+            
+            // Trigger change event on page load if role is already selected
+            $('#roleSelect').trigger('change');
+            
+            // Load courses based on department selection
+            $('#departmentSelect').change(function () {
+                var departmentId = $(this).val();
+                if (departmentId) {
+                    $.ajax({
+                        url: '@Url.Action("GetCoursesByDepartment", "Account")',
+                        type: 'GET',
+                        data: { departmentId: departmentId },
+                        success: function (data) {
+                            $('#courseSelect').empty();
+                            $('#courseSelect').append('<option value="">Select Course</option>');
+                            $.each(data, function (i, course) {
+                                $('#courseSelect').append('<option value="' + course.courseId + '">' + course.courseName + '</option>');
+                            });
+                        }
+                    });
+                } else {
+                    $('#courseSelect').empty();
+                    $('#courseSelect').append('<option value="">Select Course</option>');
+                }
+            });
+        });
+    </script>
+}

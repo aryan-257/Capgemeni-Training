@@ -8,17 +8,17 @@ namespace LibraryManagementAPI.Models
 
         [Required]
         [MaxLength(100)]
-        public string Title { get; set; }
+        public string Title { get; set; } = string.Empty;
 
         [Required]
         [MaxLength(50)]
-        public string Author { get; set; }
+        public string Author { get; set; } = string.Empty;
 
         [Range(1000, 2024)]
         public int PublishedYear { get; set; }
 
         public int? LibraryCardId { get; set; }
 
-        public LibraryCard LibraryCard { get; set; }
+        public LibraryCard? LibraryCard { get; set; }
     }
 }

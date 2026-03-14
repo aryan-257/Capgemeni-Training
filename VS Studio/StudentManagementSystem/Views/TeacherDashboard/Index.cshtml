@@ -1,0 +1,101 @@
+@{
+    ViewData["Title"] = "Teacher Dashboard";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h2>Teacher Dashboard</h2>
+        <hr />
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-header">Total Departments</div>
+            <div class="card-body">
+                <h4 class="card-title">@ViewBag.TotalDepartments</h4>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-header">Total Courses</div>
+            <div class="card-body">
+                <h4 class="card-title">@ViewBag.TotalCourses</h4>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-white bg-info mb-3">
+            <div class="card-header">Total Students</div>
+            <div class="card-body">
+                <h4 class="card-title">@ViewBag.TotalStudents</h4>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-white bg-warning mb-3">
+            <div class="card-header">Quick Actions</div>
+            <div class="card-body">
+                <a href="@Url.Action("Create", "Student")" class="btn btn-light btn-sm">Add Student</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>Students per Department</h5>
+            </div>
+            <div class="card-body">
+                @if (ViewBag.StudentsPerDepartment != null)
+                {
+                    <table class="table table-sm">
+                        <thead>
+                            <tr>
+                                <th>Department</th>
+                                <th>Students</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in ViewBag.StudentsPerDepartment)
+                            {
+                                <tr>
+                                    <td>@item.Department</td>
+                                    <td>@item.Count</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <p>No data available</p>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>Quick Links</h5>
+            </div>
+            <div class="card-body">
+                <div class="list-group">
+                    <a href="@Url.Action("Index", "Department")" class="list-group-item list-group-item-action">
+                        Manage Departments
+                    </a>
+                    <a href="@Url.Action("Index", "Course")" class="list-group-item list-group-item-action">
+                        Manage Courses
+                    </a>
+                    <a href="@Url.Action("Index", "Student")" class="list-group-item list-group-item-action">
+                        Manage Students
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

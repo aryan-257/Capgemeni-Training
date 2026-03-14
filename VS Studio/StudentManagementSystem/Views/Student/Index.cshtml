@@ -1,0 +1,102 @@
+@model IEnumerable<StudentManagementSystem.Models.Student>
+@{
+    ViewData["Title"] = "Students";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h2>Students</h2>
+        <hr />
+        <div class="row mb-3">
+            <div class="col-md-4">
+                <a asp-action="Create" class="btn btn-primary">Create New Student</a>
+            </div>
+            <div class="col-md-8">
+                <form asp-action="Index" method="get" class="row g-3">
+                    <div class="col-md-4">
+                        <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" 
+                               placeholder="Search by name..." class="form-control" />
+                    </div>
+                    <div class="col-md-4">
+                        <select name="departmentFilter" class="form-control" asp-items="ViewBag.Departments">
+                            <option value="">All Departments</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <button type="submit" class="btn btn-outline-secondary">Search</button>
+                        <a asp-action="Index" class="btn btn-outline-secondary">Clear</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (ViewBag.UsersWithoutStudentRecords != null && ViewBag.UsersWithoutStudentRecords.Count > 0)
+{
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="alert alert-info">
+                <h5>Users Registered as Students (Need Profile Setup)</h5>
+                <p>The following users have registered as students but don't have complete profiles:</p>
+                <div class="table-responsive">
+                    <table class="table table-sm">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Email</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var user in ViewBag.UsersWithoutStudentRecords)
+                            {
+                                <tr>
+                                    <td>@user.FullName</td>
+                                    <td>@user.Email</td>
+                                    <td>
+                                        <a asp-action="CreateFromUser" asp-route-userId="@user.UserId" 
+                                           class="btn btn-sm btn-success">Create Profile</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<div class="row">
+    <div class="col-12">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Student Name</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Department</th>
+                    <th>Course</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.StudentName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                        <td>@Html.DisplayFor(modelItem => item.PhoneNumber)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Department.DepartmentName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Course.CourseName)</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.StudentId" class="btn btn-sm btn-warning">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.StudentId" class="btn btn-sm btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

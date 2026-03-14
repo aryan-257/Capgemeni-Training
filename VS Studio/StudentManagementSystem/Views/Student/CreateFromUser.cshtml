@@ -1,0 +1,99 @@
+@model StudentManagementSystem.Models.Student
+@{
+    ViewData["Title"] = "Create Student Profile";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <h2>Create Student Profile</h2>
+        <hr />
+        
+        <div class="alert alert-info">
+            <h5>Creating profile for registered user:</h5>
+            <p><strong>Name:</strong> @ViewBag.UserName</p>
+            <p><strong>Email:</strong> @ViewBag.UserEmail</p>
+        </div>
+        
+        <form asp-action="CreateFromUser">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <input type="hidden" asp-for="StudentName" value="@ViewBag.UserName" />
+            <input type="hidden" asp-for="Email" value="@ViewBag.UserEmail" />
+            
+            <div class="form-group mb-3">
+                <label class="form-label">Student Name</label>
+                <input class="form-control" value="@ViewBag.UserName" readonly />
+                <small class="form-text text-muted">This field is automatically filled from user registration.</small>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label class="form-label">Email</label>
+                <input class="form-control" value="@ViewBag.UserEmail" readonly />
+                <small class="form-text text-muted">This field is automatically filled from user registration.</small>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label asp-for="PhoneNumber" class="form-label"></label>
+                <input asp-for="PhoneNumber" class="form-control" placeholder="Student can update this later" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                <small class="form-text text-muted">Optional - student can update this in their profile.</small>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label asp-for="Address" class="form-label"></label>
+                <textarea asp-for="Address" class="form-control" rows="3" placeholder="Student can update this later"></textarea>
+                <span asp-validation-for="Address" class="text-danger"></span>
+                <small class="form-text text-muted">Optional - student can update this in their profile.</small>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label asp-for="DepartmentId" class="form-label">Department</label>
+                <select asp-for="DepartmentId" class="form-control" asp-items="ViewBag.DepartmentId" id="departmentSelect">
+                    <option value="">Select Department</option>
+                </select>
+                <span asp-validation-for="DepartmentId" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label asp-for="CourseId" class="form-label">Course</label>
+                <select asp-for="CourseId" class="form-control" asp-items="ViewBag.CourseId" id="courseSelect">
+                    <option value="">Select Course</option>
+                </select>
+                <span asp-validation-for="CourseId" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Create Profile" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(document).ready(function () {
+            $('#departmentSelect').change(function () {
+                var departmentId = $(this).val();
+                if (departmentId) {
+                    $.ajax({
+                        url: '@Url.Action("GetCoursesByDepartment", "Student")',
+                        type: 'GET',
+                        data: { departmentId: departmentId },
+                        success: function (data) {
+                            $('#courseSelect').empty();
+                            $('#courseSelect').append('<option value="">Select Course</option>');
+                            $.each(data, function (i, course) {
+                                $('#courseSelect').append('<option value="' + course.courseId + '">' + course.courseName + '</option>');
+                            });
+                        }
+                    });
+                } else {
+                    $('#courseSelect').empty();
+                    $('#courseSelect').append('<option value="">Select Course</option>');
+                }
+            });
+        });
+    </script>
+}
