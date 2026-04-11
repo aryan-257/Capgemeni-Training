@@ -1,0 +1,6 @@
+@FreshCart_HostAddress = http://localhost:5012
+
+GET {{FreshCart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
