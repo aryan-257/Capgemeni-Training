@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="H1_ConfigurationLoader/H1_ConfigurationLoader.csproj" />
+  <Project Path="H2_TreeFlattener/H2_TreeFlattener.csproj" />
+  <Project Path="H3_LogMessageFormatter/H3_LogMessageFormatter.csproj" />
+  <Project Path="H4_RiskScoreCalculator/H4_RiskScoreCalculator.csproj" />
+  <Project Path="H5_QueryBuilder/H5_QueryBuilder.csproj" />
+  <Project Path="M1_CompoundInterest/M1_CompoundInterest.csproj" />
+  <Project Path="M2_BookOrderProcessor/M2_BookOrderProcessor.csproj" />
+  <Project Path="M3_LogLineParser/M3_LogLineParser.csproj" />
+  <Project Path="M4_ShapeAreaCalculator/M4_ShapeAreaCalculator.csproj" />
+  <Project Path="M5_MathOperations/M5_MathOperations.csproj" />
+</Solution>

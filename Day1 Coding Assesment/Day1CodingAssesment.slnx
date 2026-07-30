@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="H1_ElectricityBilling/H1_ElectricityBilling.csproj" />
+  <Project Path="H2_PayrollCalculator/H2_PayrollCalculator.csproj" />
+  <Project Path="H3_ShippingCost/H3_ShippingCost.csproj" />
+  <Project Path="H4_HospitalRegistration/H4_HospitalRegistration.csproj" />
+  <Project Path="H5_InvestmentCalculator/H5_InvestmentCalculator.csproj" />
+  <Project Path="M1_RetailBilling/M1_RetailBilling.csproj" />
+  <Project Path="M2_BMICalculator/M2_BMICalculator.csproj" />
+  <Project Path="M3_ShippingVolume/M3_ShippingVolume.csproj" />
+  <Project Path="M4_BankBalance/M4_BankBalance.csproj" />
+  <Project Path="M5_StudentMarks/M5_StudentMarks.csproj" />
+</Solution>
